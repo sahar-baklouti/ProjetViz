@@ -1,0 +1,17 @@
+Ligne,Couleur_proche,Code_Rouge,Code_Vert,Code_Bleu,Code_couleur
+Ligne U,fushia,201,0,98,#C90062
+Tram T11,orange,251,79,20,#FB4F14
+Ligne N,bleu paon,0,176,146,#00B092
+Ligne K,kaki,174,154,0,#AE9A00
+Ligne J,moutarde,182,191,0,#B6BF00
+RER A,rouge,247,64,58,#F7403A
+RER B,bleu,75,146,219,#4B92DB
+RER D,vert,63,156,53,#3F9C35
+Ligne H,marron,132,76,84,#844C54
+Ligne P,orange,234,171,0,#EAAB00
+Tram T4,orange,254,209,0,#FED100
+Tram T13,brun,110,76,30,#6e4c1e
+RER E,rose,222,129,211,#DE81D3
+RER C,jaune,243,211,17,#F3D311
+Ligne R,rose,229,159,219,#E59FDB
+Ligne L,pastel,117,119,192,#7577C0
