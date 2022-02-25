@@ -1,0 +1,1353 @@
+Date,Service,Ligne,Nom_ligne,TP,nb,TR
+2013-01,RER,A,RER A,83.6,5.1,16.4
+2013-01,Transilien,H,Paris Nord Ouest,93.9,15.4,6.1
+2013-02,RER,C,RER C,91.8,11.2,8.2
+2013-03,RER,A,RER A,84,5.3,16
+2013-03,Transilien,R,Paris Sud Est,89.2,8.3,10.8
+2013-05,RER,C,RER C,92.3,12.0,7.7
+2013-05,RER,D,RER D,87.1,6.8,12.9
+2013-05,RER,E,RER E,95.5,21.2,4.5
+2013-05,Transilien,N,Paris Montparnasse,96.1,24.6,3.9
+2013-06,RER,A,RER A,83.4,5.0,16.6
+2013-06,Transilien,K,Paris Nord Crépy,71.9,2.6,28.1
+2013-07,Transilien,L,Paris Saint-Lazare Sud,87.2,6.8,12.8
+2013-07,Transilien,R,Paris Sud Est,88.5,7.7,11.5
+2013-07,Transilien,U,La Verrière - La Défense,94.3,16.5,5.7
+2013-08,RER,B,RER B,89.9,8.9,10.1
+2013-08,Transilien,H,Paris Nord Ouest,95.4,20.7,4.6
+2013-08,Transilien,N,Paris Montparnasse,96,24.0,4
+2013-10,Transilien,K,Paris Nord Crépy,81.2,4.3,18.8
+2013-11,RER,B,RER B,77.9,3.5,22.1
+2013-12,RER,D,RER D,85.5,5.9,14.5
+2013-12,Transilien,P,Paris Est,91,10.1,9
+2014-01,Transilien,U,La Verrière - La Défense,93.2,13.7,6.8
+2014-03,Transilien,K,Paris Nord Crépy,87.9,7.3,12.1
+2014-03,Transilien,P,Paris Est,88.8,7.9,11.2
+2014-04,RER,A,RER A,85.7,6.0,14.3
+2014-04,RER,E,RER E,93.9,15.4,6.1
+2014-04,Transilien,H,Paris Nord Ouest,95.7,22.3,4.3
+2014-04,Transilien,J,Paris Saint-Lazare Nord,88.9,8.0,11.1
+2014-04,Transilien,R,Paris Sud Est,88.5,7.7,11.5
+2014-05,Transilien,H,Paris Nord Ouest,96.9,31.3,3.1
+2014-05,Transilien,J,Paris Saint-Lazare Nord,87.1,6.8,12.9
+2014-06,RER,C,RER C,87.3,6.9,12.7
+2014-06,Transilien,K,Paris Nord Crépy,79.6,3.9,20.4
+2014-07,Transilien,R,Paris Sud Est,89.7,8.7,10.3
+2014-08,Transilien,K,Paris Nord Crépy,91.3,10.5,8.7
+2014-09,Transilien,H,Paris Nord Ouest,96.3,26.0,3.7
+2014-10,Transilien,H,Paris Nord Ouest,93.7,14.9,6.3
+2014-11,RER,C,RER C,86.735,6.5,13.26
+2014-11,Transilien,H,Paris Nord Ouest,94.748,18.0,5.25
+2014-11,Transilien,U,La Verrière - La Défense,88.863,8.0,11.13
+2014-12,Transilien,K,Paris Nord Crépy,83.6,5.1,16.4
+2014-12,Transilien,R,Paris Sud Est,87.6,7.1,12.4
+2015-01,RER,A,RER A,74.5,2.9,25.5
+2015-01,RER,B,RER B,88.5,7.7,11.5
+2015-01,Transilien,J,Paris Saint-Lazare Nord,87.233,6.8,12.76
+2015-02,Transilien,N,Paris Montparnasse,93.771,15.1,6.22
+2015-02,Transilien,R,Paris Sud Est,91.222,10.4,8.77
+2015-03,RER,D,RER D,86.308,6.3,13.69
+2015-03,RER,E,RER E,96.326,26.2,3.67
+2015-03,Transilien,J,Paris Saint-Lazare Nord,87.498,7.0,12.5
+2015-03,Transilien,U,La Verrière - La Défense,95.922,23.5,4.07
+2015-04,Transilien,L,Paris Saint-Lazare Sud,81.752,4.5,18.24
+2015-04,Transilien,P,Paris Est,87.956,7.3,12.04
+2015-05,RER,C,RER C,91.445,10.7,8.55
+2015-05,Transilien,N,Paris Montparnasse,93.781,15.1,6.21
+2015-06,Transilien,U,La Verrière - La Défense,93.659,14.8,6.34
+2015-07,RER,D,RER D,87.7,7.1,12.3
+2015-07,Transilien,J,Paris Saint-Lazare Nord,86.9,6.6,13.1
+2015-07,Transilien,K,Paris Nord Crépy,89.4,8.4,10.6
+2015-08,RER,A,RER A,82.997,4.9,17
+2015-08,RER,C,RER C,93.1,13.5,6.9
+2015-08,RER,E,RER E,94.7,17.9,5.3
+2015-08,Transilien,P,Paris Est,90.8,9.9,9.2
+2015-08,Transilien,U,La Verrière - La Défense,95.9,23.4,4.1
+2015-09,Transilien,H,Paris Nord Ouest,95.658,22.0,4.34
+2015-09,Transilien,N,Paris Montparnasse,92.971,13.2,7.02
+2015-10,Transilien,U,La Verrière - La Défense,91.457,10.7,8.54
+2015-11,RER,D,RER D,81.6,4.4,18.4
+2015-11,Transilien,R,Paris Sud Est,82.2,4.6,17.8
+2015-11,Transilien,U,La Verrière - La Défense,90.5,9.5,9.5
+2015-12,RER,D,RER D,88.5,7.7,11.5
+2015-12,RER,E,RER E,95.5,21.2,4.5
+2016-01,RER,E,RER E,95.1,19.4,4.9
+2016-01,Transilien,R,Paris Sud Est,87.2,6.8,12.8
+2016-01,Transilien,U,La Verrière - La Défense,94.1,15.9,5.9
+2016-02,Transilien,J,Paris Saint-Lazare Nord,91.5,10.8,8.5
+2016-02,Transilien,N,Paris Montparnasse,93.7,14.9,6.3
+2016-03,RER,A,RER A,72.2,2.6,27.8
+2016-03,Transilien,J,Paris Saint-Lazare Nord,91.1,10.2,8.9
+2016-03,Transilien,L,Paris Saint-Lazare Sud,89.9,8.9,10.1
+2016-04,RER,A,RER A,72.6,2.6,27.4
+2016-04,RER,B,RER B,90.1,9.1,9.9
+2016-04,RER,D,RER D,89.2,8.3,10.8
+2016-04,Transilien,J,Paris Saint-Lazare Nord,91,10.1,9
+2016-05,RER,C,RER C,88.6,7.8,11.4
+2016-05,RER,D,RER D,85.7,6.0,14.3
+2016-05,RER,E,RER E,91,10.1,9
+2016-05,Transilien,K,Paris Nord Crépy,92.3,12.0,7.7
+2016-06,RER,C,RER C,88.1,7.4,11.9
+2016-06,Transilien,K,Paris Nord Crépy,89.4,8.4,10.6
+2016-07,RER,B,RER B,87.8,7.2,12.2
+2016-07,Transilien,H,Paris Nord Ouest,91.8,11.2,8.2
+2016-07,Transilien,R,Paris Sud Est,86.7,6.5,13.3
+2016-08,RER,A,RER A,82.3,4.6,17.7
+2016-08,RER,C,RER C,90.3,9.3,9.7
+2016-08,RER,E,RER E,92.7,12.7,7.3
+2016-08,Transilien,H,Paris Nord Ouest,95.1,19.4,4.9
+2016-08,Transilien,P,Paris Est,87.6,7.1,12.4
+2016-08,Transilien,U,La Verrière - La Défense,93.2,13.7,6.8
+2016-09,RER,B,RER B,87.8,7.2,12.2
+2016-09,Transilien,H,Paris Nord Ouest,96.4,26.8,3.6
+2016-09,Transilien,J,Paris Saint-Lazare Nord,92.1,11.7,7.9
+2016-09,Transilien,L,Paris Saint-Lazare Sud,90.7,9.8,9.3
+2016-09,Transilien,P,Paris Est,93,13.3,7
+2016-09,Transilien,U,La Verrière - La Défense,92.4,12.2,7.6
+2016-10,RER,E,RER E,93,13.3,7
+2016-10,Transilien,K,Paris Nord Crépy,95.4,20.7,4.6
+2016-10,Transilien,U,La Verrière - La Défense,94.6,17.5,5.4
+2016-12,Transilien,K,Paris Nord Crépy,86.5,6.4,13.5
+2016-12,Transilien,R,Paris Sud Est,88.6,7.8,11.4
+2016-12,Transilien,U,La Verrière - La Défense,94.5,17.2,5.5
+2017-01,RER,B,RER B,87.8,7.2,12.2
+2017-01,RER,C,RER C,87.3,6.9,12.7
+2017-01,Transilien,J,Paris Saint-Lazare Nord,88.8,7.9,11.2
+2017-02,Transilien,H,Paris Nord Ouest,93.1,13.5,6.9
+2017-03,RER,B,RER B,83.8,5.2,16.2
+2017-03,Transilien,N,Paris Montparnasse,93.4,14.2,6.6
+2017-04,RER,B,RER B,84.2,5.3,15.8
+2017-04,Transilien,L,Paris Saint-Lazare Sud,92.3,12.0,7.7
+2017-05,RER,B,RER B,82.258,4.6,17.74
+2017-06,RER,A,RER A,69.948,2.3,30.05
+2017-06,RER,B,RER B,88.535,7.7,11.46
+2017-06,RER,D,RER D,82.962,4.9,17.03
+2017-06,Transilien,K,Paris Nord Crépy,95.264,20.1,4.73
+2017-06,Transilien,P,Paris Est,82.038,4.6,17.96
+2017-06,Transilien,R,Paris Sud Est,76.235,3.2,23.76
+2017-07,RER,A,RER A,70.835,2.4,29.16
+2017-08,Transilien,K,Paris Nord Crépy,94.5,17.2,5.5
+2017-09,RER,E,RER E,95,19.0,5
+2013-01,RER,B,RER B,80.1,4.0,19.9
+2017-09,Transilien,U,La Verrière - La Défense,93,13.3,7
+2013-02,RER,E,RER E,94.7,17.9,5.3
+2017-10,RER,B,RER B,79.7,3.9,20.3
+2013-02,Transilien,J,Paris Saint-Lazare Nord,88.1,7.4,11.9
+2017-10,Transilien,J,Paris Saint-Lazare Nord,90.2,9.2,9.8
+2013-02,Transilien,K,Paris Nord Crépy,75.2,3.0,24.8
+2017-11,RER,E,RER E,92,11.5,8
+2013-03,Transilien,H,Paris Nord Ouest,92.3,12.0,7.7
+2017-11,Transilien,J,Paris Saint-Lazare Nord,87.4,6.9,12.6
+2013-04,RER,A,RER A,83.3,5.0,16.7
+2017-11,Transilien,R,Paris Sud Est,79.3,3.8,20.7
+2013-04,Transilien,J,Paris Saint-Lazare Nord,85,5.7,15
+2017-12,RER,A,RER A,77.1,3.4,22.9
+2013-04,Transilien,K,Paris Nord Crépy,82,4.6,18
+2017-12,Transilien,R,Paris Sud Est,85.5,5.9,14.5
+2013-04,Transilien,R,Paris Sud Est,89.3,8.3,10.7
+2018-01,RER,C,RER C,88.1,7.4,11.9
+2013-04,Transilien,U,La Verrière - La Défense,90.1,9.1,9.9
+2018-01,RER,E,RER E,93.6,14.6,6.4
+2013-05,Transilien,J,Paris Saint-Lazare Nord,91.5,10.8,8.5
+2018-01,Transilien,R,Paris Sud Est,81.7,4.5,18.3
+2013-06,RER,E,RER E,93.9,15.4,6.1
+2018-02,RER,A,RER A,77.4,3.4,22.6
+2013-06,Transilien,H,Paris Nord Ouest,94.1,15.9,5.9
+2018-02,RER,D,RER D,80.4,4.1,19.6
+2013-07,RER,B,RER B,84.1,5.3,15.9
+2018-02,Transilien,H,Paris Nord Ouest,90.3,9.3,9.7
+2013-07,Transilien,J,Paris Saint-Lazare Nord,87,6.7,13
+2018-02,Transilien,P,Paris Est,76.3,3.2,23.7
+2013-07,Transilien,N,Paris Montparnasse,93.2,13.7,6.8
+2018-03,Transilien,N,Paris Montparnasse,89.5,8.5,10.5
+2013-08,RER,C,RER C,93.4,14.2,6.6
+2018-04,RER,B,RER B,87.4,6.9,12.6
+2013-08,Transilien,J,Paris Saint-Lazare Nord,89.2,8.3,10.8
+2018-04,Transilien,N,Paris Montparnasse,91.2,10.4,8.8
+2013-09,RER,A,RER A,83.3,5.0,16.7
+2018-04,Transilien,R,Paris Sud Est,85.6,5.9,14.4
+2013-10,RER,C,RER C,85.6,5.9,14.4
+2018-04,Transilien,U,La Verrière - La Défense,92.9,13.1,7.1
+2013-10,Transilien,J,Paris Saint-Lazare Nord,83.2,5.0,16.8
+2018-05,Transilien,R,Paris Sud Est,85.9,6.1,14.1
+2013-10,Transilien,U,La Verrière - La Défense,91.6,10.9,8.4
+2018-06,RER,D,RER D,84.4,5.4,15.6
+2013-11,RER,C,RER C,85.5,5.9,14.5
+2018-06,Transilien,N,Paris Montparnasse,89.6,8.6,10.4
+2013-11,RER,E,RER E,92,11.5,8
+2018-06,Transilien,R,Paris Sud Est,81.1,4.3,18.9
+2013-11,Transilien,J,Paris Saint-Lazare Nord,80.7,4.2,19.3
+2018-07,RER,B,RER B,85.9,6.1,14.1
+2013-11,Transilien,N,Paris Montparnasse,88.1,7.4,11.9
+2018-07,RER,D,RER D,81.3,4.3,18.7
+2013-11,Transilien,R,Paris Sud Est,82.5,4.7,17.5
+2018-07,Transilien,J,Paris Saint-Lazare Nord,89.4,8.4,10.6
+2013-12,RER,B,RER B,82.4,4.7,17.6
+2018-08,RER,A,RER A,91.8,11.2,8.2
+2013-12,RER,E,RER E,94.9,18.6,5.1
+2018-08,RER,D,RER D,88,7.3,12
+2013-12,Transilien,K,Paris Nord Crépy,83.1,4.9,16.9
+2018-09,RER,A,RER A,82.2,4.6,17.8
+2013-12,Transilien,R,Paris Sud Est,90.2,9.2,9.8
+2018-09,RER,B,RER B,87,6.7,13
+2013-12,Transilien,U,La Verrière - La Défense,90.6,9.6,9.4
+2018-09,Transilien,H,Paris Nord Ouest,95.9,23.4,4.1
+2014-01,Transilien,H,Paris Nord Ouest,95.9,23.4,4.1
+2018-09,Transilien,L,Paris Saint-Lazare Sud,90.7,9.8,9.3
+2014-01,Transilien,K,Paris Nord Crépy,76.6,3.3,23.4
+2018-09,Transilien,U,La Verrière - La Défense,93.6,14.6,6.4
+2014-01,Transilien,R,Paris Sud Est,89.7,8.7,10.3
+2018-10,RER,A,RER A,80.85,4.2,19.15
+2014-02,RER,D,RER D,88.2,7.5,11.8
+2018-10,RER,B,RER B,84.72,5.5,15.28
+2014-02,RER,E,RER E,95,19.0,5
+2018-10,RER,D,RER D,83.5,5.1,16.5
+2014-02,Transilien,J,Paris Saint-Lazare Nord,85.4,5.8,14.6
+2018-10,Transilien,H,Paris Nord Ouest,94.5,17.2,5.5
+2013-01,Transilien,P,Paris Est,85.8,6.0,14.2
+2014-02,Transilien,N,Paris Montparnasse,95.1,19.4,4.9
+2018-10,Transilien,N,Paris Montparnasse,90.8,9.9,9.2
+2013-02,RER,B,RER B,80.3,4.1,19.7
+2014-03,Transilien,J,Paris Saint-Lazare Nord,87.1,6.8,12.9
+2018-11,RER,A,RER A,83.13,4.9,16.87
+2013-02,Transilien,H,Paris Nord Ouest,92.7,12.7,7.3
+2014-03,Transilien,N,Paris Montparnasse,95.4,20.7,4.6
+2018-11,RER,D,RER D,77.4,3.4,22.6
+2013-02,Transilien,N,Paris Montparnasse,93.3,13.9,6.7
+2014-04,RER,D,RER D,88.5,7.7,11.5
+2018-11,RER,E,RER E,93.4,14.2,6.6
+2013-02,Transilien,R,Paris Sud Est,88.2,7.5,11.8
+2014-04,Transilien,L,Paris Saint-Lazare Sud,86.7,6.5,13.3
+2018-12,RER,B,RER B,85.6,5.9,14.4
+2013-03,RER,D,RER D,80,4.0,20
+2014-04,Transilien,N,Paris Montparnasse,95.8,22.8,4.2
+2018-12,Transilien,K,Paris Nord Crépy,93,13.3,7
+2013-03,RER,E,RER E,92.9,13.1,7.1
+2014-05,RER,A,RER A,87.6,7.1,12.4
+2019-01,RER,B,RER B,83.9,5.2,16.1
+2013-03,Transilien,J,Paris Saint-Lazare Nord,84.2,5.3,15.8
+2014-05,RER,B,RER B,89.4,8.4,10.6
+2019-01,RER,C,RER C,88.1,7.4,11.9
+2013-03,Transilien,L,Paris Saint-Lazare Sud,81.8,4.5,18.2
+2014-06,RER,B,RER B,,0.0,100
+2019-02,RER,B,RER B,84.5,5.5,15.5
+2013-03,Transilien,N,Paris Montparnasse,89.1,8.2,10.9
+2014-06,RER,E,RER E,95.4,20.7,4.6
+2019-02,RER,C,RER C,85.672,6.0,14.32
+2013-04,Transilien,H,Paris Nord Ouest,94.6,17.5,5.4
+2014-06,Transilien,H,Paris Nord Ouest,93.9,15.4,6.1
+2019-02,RER,D,RER D,85.574,5.9,14.42
+2013-05,RER,A,RER A,86.4,6.4,13.6
+2014-07,RER,B,RER B,86.9,6.6,13.1
+2019-02,RER,E,RER E,93.053,13.4,6.94
+2013-05,Transilien,K,Paris Nord Crépy,81.3,4.3,18.7
+2014-07,RER,E,RER E,92.5,12.3,7.5
+2019-03,Transilien,N,Paris Montparnasse,93.055,13.4,6.94
+2013-05,Transilien,L,Paris Saint-Lazare Sud,90.6,9.6,9.4
+2014-07,Transilien,H,Paris Nord Ouest,93.1,13.5,6.9
+2019-03,Transilien,U,La Verrière - La Défense,95.945,23.7,4.05
+2013-05,Transilien,U,La Verrière - La Défense,95.3,20.3,4.7
+2014-07,Transilien,U,La Verrière - La Défense,93.3,13.9,6.7
+2019-04,RER,E,RER E,90.883,10.0,9.11
+2013-06,RER,B,RER B,82.2,4.6,17.8
+2014-08,Transilien,P,Paris Est,92.6,12.5,7.4
+2019-04,Transilien,K,Paris Nord Crépy,96.654,28.9,3.34
+2013-06,Transilien,N,Paris Montparnasse,93.9,15.4,6.1
+2014-08,Transilien,R,Paris Sud Est,93.2,13.7,6.8
+2019-07,RER,D,RER D,85.101,5.7,14.89
+2013-06,Transilien,R,Paris Sud Est,89.5,8.5,10.5
+2014-08,Transilien,U,La Verrière - La Défense,95.4,20.7,4.6
+2019-08,RER,A,RER A,94.061,15.8,5.93
+2013-06,Transilien,U,La Verrière - La Défense,93.2,13.7,6.8
+2014-09,RER,B,RER B,87.4,6.9,12.6
+2019-08,Transilien,K,Paris Nord Crépy,95.431,20.9,4.56
+2013-08,RER,D,RER D,90.4,9.4,9.6
+2014-09,RER,C,RER C,92.9,13.1,7.1
+2019-09,Transilien,H,Paris Nord Ouest,96.494,27.5,3.5
+2013-08,Transilien,L,Paris Saint-Lazare Sud,89.9,8.9,10.1
+2014-09,RER,D,RER D,87,6.7,13
+2019-09,Transilien,L,Paris Saint-Lazare Sud,93.834,15.2,6.16
+2013-08,Transilien,R,Paris Sud Est,92,11.5,8
+2014-09,RER,E,RER E,96,24.0,4
+2019-09,Transilien,N,Paris Montparnasse,93.2,13.7,6.8
+2013-09,RER,D,RER D,83.1,4.9,16.9
+2014-09,Transilien,J,Paris Saint-Lazare Nord,84.6,5.5,15.4
+2019-09,Transilien,P,Paris Est,85.931,6.1,14.06
+2013-09,RER,E,RER E,96.8,30.3,3.2
+2014-09,Transilien,N,Paris Montparnasse,91.6,10.9,8.4
+2019-09,Transilien,U,La Verrière - La Défense,95.86,23.2,4.14
+2013-09,Transilien,H,Paris Nord Ouest,95.4,20.7,4.6
+2014-10,RER,B,RER B,85.5,5.9,14.5
+2019-10,RER,B,RER B,76.488,3.3,23.51
+2013-09,Transilien,J,Paris Saint-Lazare Nord,88.8,7.9,11.2
+2014-10,RER,C,RER C,84.1,5.3,15.9
+2019-10,Transilien,J,Paris Saint-Lazare Nord,86.439,6.4,13.56
+2013-09,Transilien,R,Paris Sud Est,89.6,8.6,10.4
+2014-10,RER,D,RER D,81.4,4.4,18.6
+2019-10,Transilien,L,Paris Saint-Lazare Sud,89.837,8.8,10.16
+2013-10,RER,A,RER A,83.1,4.9,16.9
+2014-10,Transilien,R,Paris Sud Est,77.9,3.5,22.1
+2019-10,Transilien,N,Paris Montparnasse,87.745,7.2,12.25
+2013-10,Transilien,R,Paris Sud Est,89.4,8.4,10.6
+2014-10,Transilien,U,La Verrière - La Défense,93.6,14.6,6.4
+2019-10,Transilien,P,Paris Est,88.893,8.0,11.1
+2013-11,RER,D,RER D,76.9,3.3,23.1
+2014-11,RER,B,RER B,86.1,6.2,13.9
+2019-10,Transilien,U,La Verrière - La Défense,91.795,11.2,8.2
+2013-12,Transilien,H,Paris Nord Ouest,94.7,17.9,5.3
+2014-12,RER,A,RER A,67.3,2.1,32.7
+2019-11,Transilien,L,Paris Saint-Lazare Sud,91.801,11.2,8.19
+2014-01,Transilien,P,Paris Est,91,10.1,9
+2014-12,Transilien,U,La Verrière - La Défense,91.8,11.2,8.2
+2020-02,Transilien,J,Paris Saint-Lazare Nord,86.88,6.622,13.12
+2014-02,RER,B,RER B,88.9,8.0,11.1
+2015-01,Transilien,P,Paris Est,90.949,10.0,9.05
+2020-02,Transilien,L,Paris Saint-Lazare Sud,92.863,13.011,7.13
+2014-02,Transilien,K,Paris Nord Crépy,84.4,5.4,15.6
+2015-01,Transilien,U,La Verrière - La Défense,94.673,17.8,5.32
+2020-03,RER,B,RER B,73.521,2.777,26.47
+2014-02,Transilien,L,Paris Saint-Lazare Sud,83.1,4.9,16.9
+2015-02,RER,A,RER A,73.095,2.7,26.9
+2020-03,RER,C,RER C,93.441,14.246,6.55
+2014-03,RER,A,RER A,83.3,5.0,16.7
+2015-02,Transilien,J,Paris Saint-Lazare Nord,85.058,5.7,14.94
+2020-03,RER,D,RER D,84.696,5.534,15.3
+2014-03,RER,B,RER B,87.9,7.3,12.1
+2015-02,Transilien,L,Paris Saint-Lazare Sud,81.819,4.5,18.18
+2020-03,Transilien,K,Paris Nord Crépy,91.071,10.2,8.92
+2014-03,RER,C,RER C,91.5,10.8,8.5
+2015-02,Transilien,P,Paris Est,92.771,12.8,7.22
+2020-03,Transilien,P,Paris Est,88.686,7.838,11.31
+2014-03,Transilien,L,Paris Saint-Lazare Sud,88.2,7.5,11.8
+2015-03,Transilien,K,Paris Nord Crépy,88.119,7.4,11.88
+2020-06,Transilien,U,La Verrière - La Défense,95.482,21.132,4.51
+2014-04,RER,C,RER C,91.6,10.9,8.4
+2015-03,Transilien,L,Paris Saint-Lazare Sud,82.902,4.8,17.09
+2020-07,Transilien,H,Paris Nord Ouest,94.199,16.237,5.8
+2014-05,RER,C,RER C,91.7,11.0,8.3
+2015-03,Transilien,N,Paris Montparnasse,94.754,18.1,5.24
+2020-07,Transilien,K,Paris Nord Crépy,93.239,13.791,6.76
+2014-05,Transilien,P,Paris Est,92.7,12.7,7.3
+2015-04,RER,A,RER A,71.977,2.6,28.02
+2020-07,Transilien,N,Paris Montparnasse,94.142,16.072,5.85
+2014-05,Transilien,R,Paris Sud Est,89.7,8.7,10.3
+2015-04,Transilien,N,Paris Montparnasse,93.906,15.4,6.09
+2020-08,RER,B,RER B,76.672,3.287,23.32
+2014-06,RER,A,RER A,72.6,2.6,27.4
+2015-05,RER,E,RER E,95.987,23.9,4.01
+2020-08,RER,C,RER C,93.157,13.614,6.84
+2014-06,Transilien,J,Paris Saint-Lazare Nord,84.9,5.6,15.1
+2015-06,RER,B,RER B,84.971,5.7,15.02
+2020-08,RER,D,RER D,87.498,6.999,12.5
+2014-06,Transilien,L,Paris Saint-Lazare Sud,84,5.3,16
+2015-06,Transilien,L,Paris Saint-Lazare Sud,82.635,4.8,17.36
+2020-09,RER,C,RER C,91.069,10.197,8.93
+2014-06,Transilien,N,Paris Montparnasse,94.7,17.9,5.3
+2015-07,RER,B,RER B,90.9,10.0,9.1
+2020-09,RER,D,RER D,87.593,7.06,12.4
+2014-06,Transilien,P,Paris Est,89.4,8.4,10.6
+2015-07,Transilien,P,Paris Est,90.1,9.1,9.9
+2020-09,Transilien,H,Paris Nord Ouest,94.268,16.445,5.73
+2014-07,Transilien,L,Paris Saint-Lazare Sud,85.5,5.9,14.5
+2015-08,RER,D,RER D,91.5,10.8,8.5
+2020-09,Transilien,L,Paris Saint-Lazare Sud,94.426,16.939,5.57
+2014-08,RER,A,RER A,81.2,4.3,18.8
+2015-08,Transilien,H,Paris Nord Ouest,96.3,26.0,3.7
+2020-11,RER,C,RER C,91.637,10.958,8.36
+2014-08,RER,D,RER D,92,11.5,8
+2015-08,Transilien,J,Paris Saint-Lazare Nord,90,9.0,10
+2020-11,Transilien,H,Paris Nord Ouest,95.565,21.548,4.43
+2014-08,Transilien,H,Paris Nord Ouest,95.5,21.2,4.5
+2015-09,RER,A,RER A,69.995,2.3,30
+2020-11,Transilien,P,Paris Est,93.767,15.044,6.23
+2014-08,Transilien,N,Paris Montparnasse,94,15.7,6
+2015-09,Transilien,P,Paris Est,86.054,6.2,13.94
+2020-12,RER,A,RER A,88.737,7.879,11.26
+2014-09,Transilien,L,Paris Saint-Lazare Sud,85.7,6.0,14.3
+2015-09,Transilien,R,Paris Sud Est,89.617,8.6,10.38
+2020-12,RER,B,RER B,88.286,7.537,11.71
+2014-09,Transilien,U,La Verrière - La Défense,95.9,23.4,4.1
+2015-09,Transilien,U,La Verrière - La Défense,92.786,12.9,7.21
+2020-12,RER,C,RER C,92.309,12.003,7.69
+2014-10,RER,A,RER A,68.8,2.2,31.2
+2015-10,RER,C,RER C,88.034,7.4,11.96
+2020-12,Transilien,L,Paris Saint-Lazare Sud,93.937,15.493,6.06
+2014-10,Transilien,K,Paris Nord Crépy,86.5,6.4,13.5
+2015-10,Transilien,H,Paris Nord Ouest,93.511,14.4,6.48
+2021-02,RER,B,RER B,83.125,4.926,16.87
+2014-10,Transilien,N,Paris Montparnasse,91,10.1,9
+2015-10,Transilien,K,Paris Nord Crépy,90.205,9.2,9.79
+2021-02,RER,D,RER D,85.731,6.008,14.26
+2014-10,Transilien,P,Paris Est,90.7,9.8,9.3
+2015-10,Transilien,L,Paris Saint-Lazare Sud,82.69,4.8,17.31
+2021-02,RER,E,RER E,94.078,15.887,5.92
+2014-11,Transilien,R,Paris Sud Est,84.876,5.6,15.12
+2015-11,RER,E,RER E,92.9,13.1,7.1
+2021-02,Transilien,H,Paris Nord Ouest,95.113,19.464,4.88
+2014-12,RER,B,RER B,84.6,5.5,15.4
+2015-11,Transilien,H,Paris Nord Ouest,94.3,16.5,5.7
+2021-03,RER,A,RER A,88.795,7.924,11.2
+2014-12,RER,C,RER C,89.3,8.3,10.7
+2015-11,Transilien,L,Paris Saint-Lazare Sud,80.6,4.2,19.4
+2021-03,Transilien,P,Paris Est,92.286,11.963,7.71
+2014-12,RER,D,RER D,84.2,5.3,15.8
+2015-12,RER,B,RER B,87.995,7.3,12
+2021-03,Transilien,R,Paris Sud Est,89.093,8.168,10.9
+2014-12,Transilien,J,Paris Saint-Lazare Nord,84.3,5.4,15.7
+2015-12,Transilien,N,Paris Montparnasse,92.6,12.5,7.4
+2021-04,RER,B,RER B,88.612,7.781,11.38
+2014-12,Transilien,N,Paris Montparnasse,94,15.7,6
+2015-12,Transilien,P,Paris Est,92.5,12.3,7.5
+2021-05,RER,A,RER A,93.766,15.041,6.23
+2014-12,Transilien,P,Paris Est,88.7,7.8,11.3
+2015-12,Transilien,U,La Verrière - La Défense,92.9,13.1,7.1
+2021-05,RER,C,RER C,92.896,13.076,7.1
+2015-01,Transilien,H,Paris Nord Ouest,95.565,21.5,4.43
+2016-01,Transilien,L,Paris Saint-Lazare Sud,89,8.1,11
+2021-06,Transilien,N,Paris Montparnasse,92.274,11.944,7.72
+2015-01,Transilien,N,Paris Montparnasse,93.886,15.4,6.11
+2016-01,Transilien,P,Paris Est,89.5,8.5,10.5
+2021-06,Transilien,R,Paris Sud Est,89.928,8.928,10.07
+2015-01,Transilien,R,Paris Sud Est,89.231,8.3,10.76
+2016-02,Transilien,R,Paris Sud Est,88.1,7.4,11.9
+2021-07,RER,E,RER E,91.978,11.466,8.02
+2015-03,RER,C,RER C,88.916,8.0,11.08
+2016-03,Transilien,N,Paris Montparnasse,93.2,13.7,6.8
+2021-07,Transilien,K,Paris Nord Crépy,93.304,13.935,6.69
+2015-03,Transilien,H,Paris Nord Ouest,96.064,24.4,3.93
+2016-04,RER,E,RER E,93.7,14.9,6.3
+2021-08,Transilien,U,La Verrière - La Défense,97.784,44.135,2.21
+2015-04,RER,C,RER C,89.282,8.3,10.71
+2016-04,Transilien,L,Paris Saint-Lazare Sud,89.4,8.4,10.6
+2021-09,RER,A,RER A,86.326,6.313,13.67
+2015-04,RER,E,RER E,90.539,9.6,9.46
+2016-04,Transilien,N,Paris Montparnasse,94.3,16.5,5.7
+2021-09,RER,B,RER B,81.033,4.272,18.96
+2015-05,RER,A,RER A,71.217,2.5,28.78
+2016-04,Transilien,P,Paris Est,89.4,8.4,10.6
+2021-09,Transilien,R,Paris Sud Est,88.138,7.43,11.86
+2015-05,RER,B,RER B,86.995,6.7,13
+2016-05,RER,A,RER A,75.3,3.0,24.7
+2021-09,Transilien,U,La Verrière - La Défense,95.151,19.625,4.84
+2015-05,Transilien,H,Paris Nord Ouest,95.938,23.6,4.06
+2016-05,Transilien,U,La Verrière - La Défense,93.5,14.4,6.5
+2021-10,Transilien,J,Paris Saint-Lazare Nord,91.842,11.258,8.15
+2015-06,RER,A,RER A,71.15,2.5,28.85
+2016-06,Transilien,J,Paris Saint-Lazare Nord,90.5,9.5,9.5
+2021-10,Transilien,U,La Verrière - La Défense,93.772,15.055,6.22
+2015-06,RER,C,RER C,86.173,6.2,13.82
+2016-06,Transilien,L,Paris Saint-Lazare Sud,88.3,7.5,11.7
+2021-12,RER,B,RER B,82.741,4.794,17.25
+2015-06,RER,D,RER D,82.81,4.8,17.19
+2016-06,Transilien,P,Paris Est,90.1,9.1,9.9
+2021-12,Transilien,J,Paris Saint-Lazare Nord,94.681,17.801,5.31
+2015-06,RER,E,RER E,93.059,13.4,6.94
+2016-06,Transilien,U,La Verrière - La Défense,91,10.1,9
+2021-12,Transilien,N,Paris Montparnasse,95.717,22.347,4.28
+2015-06,Transilien,H,Paris Nord Ouest,92.322,12.0,7.67
+2016-07,RER,C,RER C,86.4,6.4,13.6
+2015-06,Transilien,K,Paris Nord Crépy,90.043,9.0,9.95
+2016-07,Transilien,J,Paris Saint-Lazare Nord,87.2,6.8,12.8
+2015-06,Transilien,R,Paris Sud Est,85.187,5.8,14.81
+2016-07,Transilien,K,Paris Nord Crépy,86.9,6.6,13.1
+2015-07,Transilien,H,Paris Nord Ouest,92.8,12.9,7.2
+2016-07,Transilien,P,Paris Est,86.4,6.4,13.6
+2015-07,Transilien,L,Paris Saint-Lazare Sud,78.5,3.7,21.5
+2016-09,RER,D,RER D,85.8,6.0,14.2
+2015-08,RER,B,RER B,92.918,13.1,7.08
+2016-09,RER,E,RER E,94.4,16.9,5.6
+2015-08,Transilien,K,Paris Nord Crépy,87.6,7.1,12.4
+2016-10,Transilien,N,Paris Montparnasse,93.7,14.9,6.3
+2015-08,Transilien,R,Paris Sud Est,91.2,10.4,8.8
+2016-11,RER,B,RER B,82,4.6,18
+2015-09,RER,B,RER B,89.361,8.4,10.63
+2016-11,Transilien,H,Paris Nord Ouest,94.4,16.9,5.6
+2015-09,Transilien,K,Paris Nord Crépy,87.9,7.3,12.1
+2016-11,Transilien,R,Paris Sud Est,83.8,5.2,16.2
+2015-10,RER,A,RER A,65.83,1.9,34.17
+2016-11,Transilien,U,La Verrière - La Défense,93.3,13.9,6.7
+2015-10,Transilien,P,Paris Est,90.725,9.8,9.27
+2016-12,Transilien,J,Paris Saint-Lazare Nord,88.5,7.7,11.5
+2015-11,RER,A,RER A,67.1,2.0,32.9
+2017-01,RER,A,RER A,68.25,2.1,31.75
+2015-11,Transilien,J,Paris Saint-Lazare Nord,88.3,7.5,11.7
+2017-01,RER,D,RER D,85.2,5.8,14.8
+2015-11,Transilien,K,Paris Nord Crépy,85,5.7,15
+2017-01,Transilien,H,Paris Nord Ouest,94.4,16.9,5.6
+2015-11,Transilien,N,Paris Montparnasse,88.5,7.7,11.5
+2017-01,Transilien,N,Paris Montparnasse,86.6,6.5,13.4
+2015-12,Transilien,J,Paris Saint-Lazare Nord,89.7,8.7,10.3
+2017-01,Transilien,P,Paris Est,89.6,8.6,10.4
+2015-12,Transilien,L,Paris Saint-Lazare Sud,88.1,7.4,11.9
+2017-02,RER,A,RER A,69.35,2.3,30.65
+2015-12,Transilien,R,Paris Sud Est,86.9,6.6,13.1
+2017-02,RER,B,RER B,89.8,8.8,10.2
+2016-01,Transilien,J,Paris Saint-Lazare Nord,91.6,10.9,8.4
+2017-02,RER,D,RER D,87,6.7,13
+2016-02,RER,A,RER A,71.7,2.5,28.3
+2017-02,Transilien,J,Paris Saint-Lazare Nord,92.5,12.3,7.5
+2016-02,RER,C,RER C,88.5,7.7,11.5
+2017-02,Transilien,R,Paris Sud Est,89.6,8.6,10.4
+2016-02,RER,D,RER D,86.7,6.5,13.3
+2017-03,RER,D,RER D,82.9,4.8,17.1
+2016-03,RER,C,RER C,88.3,7.5,11.7
+2017-04,Transilien,N,Paris Montparnasse,93.9,15.4,6.1
+2016-03,Transilien,P,Paris Est,89.2,8.3,10.8
+2017-04,Transilien,U,La Verrière - La Défense,94.8,18.2,5.2
+2016-03,Transilien,U,La Verrière - La Défense,93.5,14.4,6.5
+2017-05,RER,C,RER C,86.672,6.5,13.32
+2016-04,Transilien,H,Paris Nord Ouest,96.4,26.8,3.6
+2017-05,Transilien,L,Paris Saint-Lazare Sud,88.916,8.0,11.08
+2016-04,Transilien,U,La Verrière - La Défense,95.8,22.8,4.2
+2017-05,Transilien,P,Paris Est,91.442,10.7,8.55
+2016-05,Transilien,R,Paris Sud Est,81.1,4.3,18.9
+2017-06,Transilien,L,Paris Saint-Lazare Sud,86.837,6.6,13.16
+2016-06,RER,A,RER A,70.7,2.4,29.3
+2017-07,Transilien,H,Paris Nord Ouest,93.308,13.9,6.69
+2016-06,RER,D,RER D,83,4.9,17
+2017-07,Transilien,L,Paris Saint-Lazare Sud,89.264,8.3,10.73
+2016-06,RER,E,RER E,93,13.3,7
+2017-08,RER,C,RER C,93.8,15.1,6.2
+2016-06,Transilien,R,Paris Sud Est,84.5,5.5,15.5
+2017-08,Transilien,J,Paris Saint-Lazare Nord,91.4,10.6,8.6
+2016-08,RER,B,RER B,93.19,13.7,6.81
+2017-08,Transilien,L,Paris Saint-Lazare Sud,92.5,12.3,7.5
+2016-08,RER,D,RER D,89.8,8.8,10.2
+2017-09,RER,A,RER A,72.9,2.7,27.1
+2016-08,Transilien,L,Paris Saint-Lazare Sud,87.8,7.2,12.2
+2017-09,Transilien,H,Paris Nord Ouest,96.6,28.4,3.4
+2016-09,Transilien,N,Paris Montparnasse,90.8,9.9,9.2
+2017-09,Transilien,J,Paris Saint-Lazare Nord,89.9,8.9,10.1
+2016-10,RER,A,RER A,70.6,2.4,29.4
+2017-09,Transilien,N,Paris Montparnasse,90.7,9.8,9.3
+2016-10,RER,C,RER C,89.2,8.3,10.8
+2017-09,Transilien,P,Paris Est,93.8,15.1,6.2
+2016-10,Transilien,L,Paris Saint-Lazare Sud,88.2,7.5,11.8
+2017-10,RER,D,RER D,83,4.9,17
+2016-10,Transilien,P,Paris Est,90.7,9.8,9.3
+2017-10,Transilien,H,Paris Nord Ouest,92.5,12.3,7.5
+2016-11,RER,D,RER D,83.4,5.0,16.6
+2017-10,Transilien,L,Paris Saint-Lazare Sud,86.4,6.4,13.6
+2016-11,Transilien,L,Paris Saint-Lazare Sud,86,6.1,14
+2017-10,Transilien,N,Paris Montparnasse,90.4,9.4,9.6
+2016-11,Transilien,N,Paris Montparnasse,86.2,6.2,13.8
+2017-11,Transilien,L,Paris Saint-Lazare Sud,83.1,4.9,16.9
+2016-12,RER,B,RER B,81.7,4.5,18.3
+2017-11,Transilien,N,Paris Montparnasse,86.2,6.2,13.8
+2016-12,RER,D,RER D,80.8,4.2,19.2
+2017-11,Transilien,P,Paris Est,89.7,8.7,10.3
+2016-12,Transilien,H,Paris Nord Ouest,58.1,1.4,41.9
+2017-11,Transilien,U,La Verrière - La Défense,89.1,8.2,10.9
+2016-12,Transilien,L,Paris Saint-Lazare Sud,89.5,8.5,10.5
+2018-01,RER,B,RER B,88.5,7.7,11.5
+2016-12,Transilien,N,Paris Montparnasse,90.1,9.1,9.9
+2018-01,RER,D,RER D,84.9,5.6,15.1
+2016-12,Transilien,P,Paris Est,90.7,9.8,9.3
+2018-01,Transilien,K,Paris Nord Crépy,91.6,10.9,8.4
+2017-01,RER,E,RER E,92.3,12.0,7.7
+2018-01,Transilien,P,Paris Est,90.8,9.9,9.2
+2017-01,Transilien,L,Paris Saint-Lazare Sud,87,6.7,13
+2018-02,Transilien,R,Paris Sud Est,73.2,2.7,26.8
+2017-02,RER,C,RER C,83.4,5.0,16.6
+2018-03,RER,D,RER D,82.2,4.6,17.8
+2017-02,Transilien,L,Paris Saint-Lazare Sud,90.1,9.1,9.9
+2018-03,Transilien,U,La Verrière - La Défense,92.7,12.7,7.3
+2017-02,Transilien,N,Paris Montparnasse,89.9,8.9,10.1
+2018-04,Transilien,K,Paris Nord Crépy,90.6,9.6,9.4
+2017-03,Transilien,K,Paris Nord Crépy,92.9,13.1,7.1
+2018-04,Transilien,P,Paris Est,95.3,20.3,4.7
+2017-03,Transilien,P,Paris Est,93.2,13.7,6.8
+2018-05,RER,D,RER D,85.4,5.8,14.6
+2017-03,Transilien,R,Paris Sud Est,86.3,6.3,13.7
+2018-05,RER,E,RER E,95.6,21.7,4.4
+2017-03,Transilien,U,La Verrière - La Défense,94.8,18.2,5.2
+2018-05,Transilien,L,Paris Saint-Lazare Sud,91.5,10.8,8.5
+2017-04,RER,A,RER A,73.9,2.8,26.1
+2018-06,RER,B,RER B,87.4,6.9,12.6
+2017-04,RER,C,RER C,85.9,6.1,14.1
+2018-06,Transilien,H,Paris Nord Ouest,92.2,11.8,7.8
+2017-04,Transilien,P,Paris Est,94.4,16.9,5.6
+2018-06,Transilien,J,Paris Saint-Lazare Nord,94,15.7,6
+2017-06,RER,E,RER E,86.617,6.5,13.38
+2018-07,RER,A,RER A,78.5,3.7,21.5
+2017-07,RER,B,RER B,88.586,7.8,11.41
+2018-07,Transilien,K,Paris Nord Crépy,90.2,9.2,9.8
+2017-07,RER,D,RER D,83.497,5.1,16.5
+2018-07,Transilien,P,Paris Est,88.2,7.5,11.8
+2017-07,Transilien,K,Paris Nord Crépy,90.507,9.5,9.49
+2018-08,RER,C,RER C,92.4,12.2,7.6
+2017-07,Transilien,N,Paris Montparnasse,88.009,7.3,11.99
+2018-08,Transilien,K,Paris Nord Crépy,89,8.1,11
+2017-07,Transilien,R,Paris Sud Est,74.458,2.9,25.54
+2018-08,Transilien,L,Paris Saint-Lazare Sud,95.9,23.4,4.1
+2017-08,Transilien,R,Paris Sud Est,86.4,6.4,13.6
+2018-08,Transilien,P,Paris Est,93.3,13.9,6.7
+2017-09,RER,B,RER B,87.3,6.9,12.7
+2018-08,Transilien,U,La Verrière - La Défense,90.8,9.9,9.2
+2017-09,Transilien,K,Paris Nord Crépy,93.2,13.7,6.8
+2018-09,Transilien,N,Paris Montparnasse,91.1,10.2,8.9
+2017-09,Transilien,R,Paris Sud Est,80.9,4.2,19.1
+2018-09,Transilien,P,Paris Est,91.8,11.2,8.2
+2017-10,Transilien,K,Paris Nord Crépy,92.2,11.8,7.8
+2018-10,RER,E,RER E,90.2,9.2,9.8
+2017-10,Transilien,P,Paris Est,86.7,6.5,13.3
+2018-12,Transilien,U,La Verrière - La Défense,91.6,10.9,8.4
+2017-10,Transilien,R,Paris Sud Est,85.2,5.8,14.8
+2019-01,Transilien,H,Paris Nord Ouest,94.1,15.9,5.9
+2017-11,RER,B,RER B,83.3,5.0,16.7
+2019-01,Transilien,L,Paris Saint-Lazare Sud,91.7,11.0,8.3
+2017-11,RER,D,RER D,79.2,3.8,20.8
+2019-01,Transilien,U,La Verrière - La Défense,92.9,13.1,7.1
+2017-11,Transilien,H,Paris Nord Ouest,88.7,7.8,11.3
+2019-02,RER,A,RER A,86.9,6.6,13.1
+2017-12,RER,B,RER B,84.3,5.4,15.7
+2019-02,Transilien,H,Paris Nord Ouest,93.421,14.2,6.57
+2017-12,RER,D,RER D,84,5.3,16
+2019-03,RER,B,RER B,89,8.1,11
+2017-12,RER,E,RER E,94,15.7,6
+2019-03,RER,D,RER D,89.507,8.5,10.49
+2017-12,Transilien,H,Paris Nord Ouest,89.4,8.4,10.6
+2019-03,Transilien,R,Paris Sud Est,88.651,7.8,11.34
+2017-12,Transilien,K,Paris Nord Crépy,90,9.0,10
+2019-04,RER,C,RER C,90.907,10.0,9.09
+2018-01,RER,A,RER A,79.6,3.9,20.4
+2019-04,RER,D,RER D,87.09,6.7,12.91
+2018-01,Transilien,H,Paris Nord Ouest,92.4,12.2,7.6
+2019-04,Transilien,H,Paris Nord Ouest,96.27,25.8,3.73
+2018-01,Transilien,U,La Verrière - La Défense,91.4,10.6,8.6
+2019-04,Transilien,L,Paris Saint-Lazare Sud,93.565,14.5,6.43
+2018-02,RER,B,RER B,79.8,4.0,20.2
+2019-04,Transilien,N,Paris Montparnasse,94.439,17.0,5.56
+2018-02,Transilien,L,Paris Saint-Lazare Sud,84.9,5.6,15.1
+2019-05,RER,E,RER E,95.911,23.5,4.08
+2018-03,RER,B,RER B,86.4,6.4,13.6
+2019-05,Transilien,N,Paris Montparnasse,94.099,15.9,5.9
+2018-03,RER,C,RER C,90.5,9.5,9.5
+2013-01,RER,D,RER D,77.6,3.5,22.4
+2019-05,Transilien,R,Paris Sud Est,91.536,10.8,8.46
+2018-03,Transilien,J,Paris Saint-Lazare Nord,88.2,7.5,11.8
+2013-01,RER,E,RER E,93.3,13.9,6.7
+2019-06,RER,A,RER A,86.691,6.5,13.3
+2018-03,Transilien,K,Paris Nord Crépy,93,13.3,7
+2013-01,Transilien,K,Paris Nord Crépy,75.2,3.0,24.8
+2019-06,RER,E,RER E,91.025,10.1,8.97
+2018-03,Transilien,L,Paris Saint-Lazare Sud,89.8,8.8,10.2
+2013-01,Transilien,L,Paris Saint-Lazare Sud,84,5.3,16
+2019-06,Transilien,J,Paris Saint-Lazare Nord,86.187,6.2,13.81
+2018-04,Transilien,J,Paris Saint-Lazare Nord,94.4,16.9,5.6
+2013-02,Transilien,L,Paris Saint-Lazare Sud,82.1,4.6,17.9
+2019-07,RER,E,RER E,91.031,10.1,8.96
+2018-05,RER,A,RER A,82.2,4.6,17.8
+2013-03,RER,C,RER C,87.6,7.1,12.4
+2019-07,Transilien,K,Paris Nord Crépy,93.187,13.7,6.81
+2018-05,RER,B,RER B,86.8,6.6,13.2
+2013-03,Transilien,U,La Verrière - La Défense,89.2,8.3,10.8
+2019-07,Transilien,P,Paris Est,82.731,4.8,17.26
+2018-05,Transilien,J,Paris Saint-Lazare Nord,92.3,12.0,7.7
+2013-04,RER,B,RER B,86.4,6.4,13.6
+2019-08,RER,D,RER D,88.681,7.8,11.31
+2018-05,Transilien,K,Paris Nord Crépy,83.1,4.9,16.9
+2013-04,RER,D,RER D,82.9,4.8,17.1
+2019-08,Transilien,J,Paris Saint-Lazare Nord,94.401,16.9,5.59
+2018-06,RER,A,RER A,80,4.0,20
+2013-04,Transilien,L,Paris Saint-Lazare Sud,84.4,5.4,15.6
+2019-08,Transilien,L,Paris Saint-Lazare Sud,96.777,30.0,3.22
+2018-06,RER,C,RER C,88.7,7.8,11.3
+2013-04,Transilien,N,Paris Montparnasse,90.2,9.2,9.8
+2019-08,Transilien,N,Paris Montparnasse,95.268,20.1,4.73
+2018-06,RER,E,RER E,92.9,13.1,7.1
+2013-05,Transilien,P,Paris Est,90.4,9.4,9.6
+2019-08,Transilien,P,Paris Est,91.514,10.8,8.48
+2018-06,Transilien,L,Paris Saint-Lazare Sud,89.9,8.9,10.1
+2013-06,RER,D,RER D,85.1,5.7,14.9
+2019-08,Transilien,U,La Verrière - La Défense,96.816,30.4,3.18
+2018-06,Transilien,P,Paris Est,82.8,4.8,17.2
+2013-06,Transilien,J,Paris Saint-Lazare Nord,83.5,5.1,16.5
+2019-09,RER,B,RER B,82.206,4.6,17.79
+2018-07,RER,C,RER C,88.9,8.0,11.1
+2013-06,Transilien,L,Paris Saint-Lazare Sud,82.3,4.6,17.7
+2019-09,Transilien,K,Paris Nord Crépy,91.221,10.4,8.77
+2018-07,RER,E,RER E,90.2,9.2,9.8
+2013-06,Transilien,P,Paris Est,89.4,8.4,10.6
+2019-10,RER,D,RER D,79.859,4.0,20.14
+2018-07,Transilien,N,Paris Montparnasse,79,3.8,21
+2013-07,RER,D,RER D,85.2,5.8,14.8
+2019-11,RER,C,RER C,80.676,4.2,19.32
+2018-08,RER,E,RER E,94.7,17.9,5.3
+2013-07,Transilien,K,Paris Nord Crépy,85.1,5.7,14.9
+2019-11,Transilien,R,Paris Sud Est,86.259,6.3,13.74
+2018-08,Transilien,J,Paris Saint-Lazare Nord,93.3,13.9,6.7
+2013-07,Transilien,P,Paris Est,90.1,9.1,9.9
+2020-02,RER,B,RER B,80.025,4.006,19.97
+2018-09,RER,E,RER E,94.4,16.9,5.6
+2013-08,RER,A,RER A,88.9,8.0,11.1
+2020-02,RER,C,RER C,83.249,4.97,16.75
+2018-09,Transilien,J,Paris Saint-Lazare Nord,87.8,7.2,12.2
+2013-09,Transilien,K,Paris Nord Crépy,86,6.1,14
+2020-03,Transilien,R,Paris Sud Est,85.194,5.754,14.8
+2018-10,RER,C,RER C,90.4,9.4,9.6
+2013-09,Transilien,L,Paris Saint-Lazare Sud,84.9,5.6,15.1
+2020-06,RER,C,RER C,85.34,5.821,14.66
+2018-11,RER,B,RER B,79.03,3.8,20.97
+2013-09,Transilien,P,Paris Est,88,7.3,12
+2020-06,Transilien,P,Paris Est,92.538,12.401,7.46
+2018-11,RER,C,RER C,83.5,5.1,16.5
+2013-10,RER,B,RER B,80.7,4.2,19.3
+2020-07,RER,C,RER C,92.269,11.935,7.73
+2018-11,Transilien,H,Paris Nord Ouest,86.8,6.6,13.2
+2013-10,RER,D,RER D,79.6,3.9,20.4
+2020-07,RER,D,RER D,88.805,7.932,11.19
+2018-11,Transilien,J,Paris Saint-Lazare Nord,88.6,7.8,11.4
+2013-10,Transilien,H,Paris Nord Ouest,94.2,16.2,5.8
+2020-08,Transilien,N,Paris Montparnasse,94.968,18.872,5.03
+2018-11,Transilien,K,Paris Nord Crépy,87.2,6.8,12.8
+2013-10,Transilien,L,Paris Saint-Lazare Sud,82,4.6,18
+2020-08,Transilien,R,Paris Sud Est,92.623,12.555,7.37
+2018-11,Transilien,P,Paris Est,86.6,6.5,13.4
+2013-10,Transilien,N,Paris Montparnasse,92.6,12.5,7.4
+2020-09,RER,B,RER B,83.409,5.027,16.59
+2018-11,Transilien,R,Paris Sud Est,82.4,4.7,17.6
+2013-11,Transilien,U,La Verrière - La Défense,88.4,7.6,11.6
+2020-09,Transilien,U,La Verrière - La Défense,96.659,28.932,3.34
+2018-11,Transilien,U,La Verrière - La Défense,90.4,9.4,9.6
+2013-12,RER,A,RER A,81.2,4.3,18.8
+2020-10,RER,C,RER C,86.411,6.359,13.58
+2018-12,RER,E,RER E,93.6,14.6,6.4
+2013-12,Transilien,J,Paris Saint-Lazare Nord,84.4,5.4,15.6
+2020-10,RER,D,RER D,86.782,6.565,13.21
+2018-12,Transilien,L,Paris Saint-Lazare Sud,92.1,11.7,7.9
+2013-12,Transilien,N,Paris Montparnasse,92.8,12.9,7.2
+2020-10,Transilien,J,Paris Saint-Lazare Nord,89.471,8.497,10.52
+2018-12,Transilien,N,Paris Montparnasse,86,6.1,14
+2014-01,RER,A,RER A,81.1,4.3,18.9
+2020-10,Transilien,P,Paris Est,91.472,10.726,8.52
+2018-12,Transilien,P,Paris Est,87.8,7.2,12.2
+2014-01,RER,B,RER B,81.3,4.3,18.7
+2020-11,Transilien,N,Paris Montparnasse,90.56,9.593,9.44
+2019-01,RER,D,RER D,84,5.3,16
+2014-01,RER,D,RER D,86,6.1,14
+2020-12,Transilien,J,Paris Saint-Lazare Nord,92.082,11.629,7.91
+2019-01,Transilien,J,Paris Saint-Lazare Nord,90,9.0,10
+2014-01,Transilien,J,Paris Saint-Lazare Nord,82,4.6,18
+2020-12,Transilien,R,Paris Sud Est,86.989,6.686,13.01
+2019-01,Transilien,K,Paris Nord Crépy,85.2,5.8,14.8
+2014-02,Transilien,H,Paris Nord Ouest,96.1,24.6,3.9
+2021-01,RER,D,RER D,85.923,6.104,14.07
+2019-01,Transilien,R,Paris Sud Est,80.2,4.1,19.8
+2014-02,Transilien,P,Paris Est,90.4,9.4,9.6
+2021-01,Transilien,K,Paris Nord Crépy,94.747,18.036,5.25
+2019-02,Transilien,K,Paris Nord Crépy,94.867,18.5,5.13
+2014-02,Transilien,R,Paris Sud Est,85.3,5.8,14.7
+2021-01,Transilien,N,Paris Montparnasse,94.618,17.58,5.38
+2019-02,Transilien,L,Paris Saint-Lazare Sud,95.112,19.5,4.88
+2014-02,Transilien,U,La Verrière - La Défense,92.2,11.8,7.8
+2021-02,RER,A,RER A,80.019,4.005,19.98
+2019-02,Transilien,N,Paris Montparnasse,92.878,13.0,7.12
+2014-03,Transilien,H,Paris Nord Ouest,96.4,26.8,3.6
+2021-02,Transilien,U,La Verrière - La Défense,93.66,14.773,6.34
+2019-03,RER,A,RER A,88.3,7.5,11.7
+2014-03,Transilien,R,Paris Sud Est,91.5,10.8,8.5
+2021-03,RER,E,RER E,93.919,15.446,6.08
+2019-03,Transilien,K,Paris Nord Crépy,95.243,20.0,4.75
+2014-03,Transilien,U,La Verrière - La Défense,94,15.7,6
+2021-03,Transilien,L,Paris Saint-Lazare Sud,95.014,19.057,4.98
+2019-03,Transilien,P,Paris Est,90.751,9.8,9.24
+2014-04,RER,B,RER B,88.5,7.7,11.5
+2021-04,Transilien,H,Paris Nord Ouest,96.213,25.403,3.78
+2019-04,Transilien,J,Paris Saint-Lazare Nord,91.837,11.3,8.16
+2014-04,Transilien,K,Paris Nord Crépy,87,6.7,13
+2021-04,Transilien,R,Paris Sud Est,88.236,7.501,11.76
+2019-05,RER,A,RER A,88.536,7.7,11.46
+2014-04,Transilien,P,Paris Est,87.9,7.3,12.1
+2021-05,RER,D,RER D,90.479,9.503,9.52
+2019-05,Transilien,P,Paris Est,91.624,10.9,8.37
+2014-05,RER,D,RER D,85.9,6.1,14.1
+2021-06,RER,E,RER E,91.71,11.063,8.29
+2019-06,RER,C,RER C,86.092,6.2,13.9
+2013-01,RER,C,RER C,91.9,11.3,8.1
+2014-05,Transilien,L,Paris Saint-Lazare Sud,88.8,7.9,11.2
+2021-06,Transilien,H,Paris Nord Ouest,92.52,12.37,7.48
+2019-06,RER,D,RER D,86.267,6.3,13.73
+2013-01,Transilien,J,Paris Saint-Lazare Nord,82.5,4.7,17.5
+2014-05,Transilien,N,Paris Montparnasse,96.1,24.6,3.9
+2021-06,Transilien,L,Paris Saint-Lazare Sud,95.616,21.811,4.38
+2019-06,Transilien,K,Paris Nord Crépy,92.505,12.3,7.49
+2013-01,Transilien,N,Paris Montparnasse,94.7,17.9,5.3
+2014-05,Transilien,U,La Verrière - La Défense,94,15.7,6
+2021-07,Transilien,R,Paris Sud Est,90.771,9.835,9.22
+2019-06,Transilien,L,Paris Saint-Lazare Sud,92.117,11.7,7.88
+2013-01,Transilien,R,Paris Sud Est,87.2,6.8,12.8
+2014-06,Transilien,R,Paris Sud Est,86.1,6.2,13.9
+2021-08,Transilien,L,Paris Saint-Lazare Sud,96.82,30.449,3.18
+2019-07,RER,A,RER A,84.462,5.4,15.53
+2013-01,Transilien,U,La Verrière - La Défense,92.3,12.0,7.7
+2014-06,Transilien,U,La Verrière - La Défense,95.5,21.2,4.5
+2021-08,Transilien,R,Paris Sud Est,91.475,10.73,8.52
+2019-07,Transilien,H,Paris Nord Ouest,93.664,14.8,6.33
+2013-02,RER,A,RER A,86.2,6.2,13.8
+2014-07,Transilien,P,Paris Est,88.1,7.4,11.9
+2021-09,RER,D,RER D,86.687,6.512,13.31
+2019-07,Transilien,R,Paris Sud Est,86.516,6.4,13.48
+2013-02,RER,D,RER D,79.3,3.8,20.7
+2014-08,RER,B,RER B,90.7,9.8,9.3
+2021-09,Transilien,K,Paris Nord Crépy,95.429,20.877,4.57
+2019-08,RER,B,RER B,91.252,10.4,8.74
+2013-02,Transilien,P,Paris Est,89.4,8.4,10.6
+2014-08,Transilien,J,Paris Saint-Lazare Nord,87.4,6.9,12.6
+2021-09,Transilien,L,Paris Saint-Lazare Sud,92.786,12.862,7.21
+2019-08,Transilien,H,Paris Nord Ouest,95.009,19.0,4.99
+2013-02,Transilien,U,La Verrière - La Défense,91.7,11.0,8.3
+2014-08,Transilien,L,Paris Saint-Lazare Sud,92,11.5,8
+2021-09,Transilien,P,Paris Est,91.338,10.544,8.66
+2019-09,RER,A,RER A,87.573,7.0,12.42
+2013-03,RER,B,RER B,82.7,4.8,17.3
+2014-09,RER,A,RER A,70.9,2.4,29.1
+2021-11,RER,B,RER B,81.05,4.277,18.95
+2019-09,RER,D,RER D,86.799,6.6,13.2
+2013-03,Transilien,K,Paris Nord Crépy,77.3,3.4,22.7
+2014-09,Transilien,P,Paris Est,93.5,14.4,6.5
+2021-11,RER,C,RER C,88.146,7.436,11.85
+2019-09,RER,E,RER E,90.13,9.1,9.87
+2013-03,Transilien,P,Paris Est,89,8.1,11
+2014-09,Transilien,R,Paris Sud Est,88.9,8.0,11.1
+2021-11,RER,D,RER D,85.489,5.891,14.51
+2019-09,Transilien,J,Paris Saint-Lazare Nord,91.435,10.7,8.56
+2013-04,RER,C,RER C,88.7,7.8,11.3
+2014-11,RER,A,RER A,69.8,2.3,30.2
+2021-11,Transilien,U,La Verrière - La Défense,93.681,14.826,6.31
+2019-09,Transilien,R,Paris Sud Est,86.238,6.3,13.76
+2013-04,RER,E,RER E,96.2,25.3,3.8
+2014-11,Transilien,P,Paris Est,87.28,6.9,12.72
+2021-12,Transilien,H,Paris Nord Ouest,96.717,29.457,3.28
+2019-10,RER,A,RER A,85.823,6.1,14.17
+2013-04,Transilien,P,Paris Est,92.7,12.7,7.3
+2014-12,Transilien,L,Paris Saint-Lazare Sud,80.4,4.1,19.6
+2019-11,RER,A,RER A,82.055,4.6,17.94
+2013-05,RER,B,RER B,84,5.3,16
+2015-01,RER,C,RER C,91.403,10.6,8.59
+2019-11,RER,B,RER B,78.263,3.6,21.73
+2013-05,Transilien,H,Paris Nord Ouest,95.9,23.4,4.1
+2015-02,RER,B,RER B,85.397,5.8,14.6
+2019-11,Transilien,H,Paris Nord Ouest,93.784,15.1,6.21
+2013-05,Transilien,R,Paris Sud Est,93,13.3,7
+2015-02,RER,C,RER C,91.609,10.9,8.39
+2019-11,Transilien,J,Paris Saint-Lazare Nord,88.022,7.3,11.97
+2013-06,RER,C,RER C,90.3,9.3,9.7
+2015-02,RER,D,RER D,87.642,7.1,12.35
+2020-02,RER,A,RER A,83.008,4.885,16.99
+2013-07,RER,A,RER A,83.2,5.0,16.8
+2015-02,RER,E,RER E,94.074,15.9,5.92
+2020-03,RER,A,RER A,89.859,8.861,10.14
+2013-07,RER,C,RER C,90.8,9.9,9.2
+2015-02,Transilien,H,Paris Nord Ouest,94.178,16.2,5.82
+2020-03,Transilien,U,La Verrière - La Défense,99.411,168.685,0.58
+2013-07,RER,E,RER E,94,15.7,6
+2015-03,RER,B,RER B,89.854,8.9,10.14
+2020-06,RER,A,RER A,83.835,5.186,16.16
+2013-07,Transilien,H,Paris Nord Ouest,94.4,16.9,5.6
+2015-03,Transilien,P,Paris Est,93.254,13.8,6.74
+2020-06,RER,D,RER D,90.639,9.683,9.36
+2013-08,RER,E,RER E,95.4,20.7,4.6
+2015-03,Transilien,R,Paris Sud Est,90.349,9.4,9.65
+2020-06,RER,E,RER E,89.21,8.268,10.79
+2013-08,Transilien,K,Paris Nord Crépy,88.3,7.5,11.7
+2015-04,RER,D,RER D,86.555,6.4,13.44
+2020-06,Transilien,H,Paris Nord Ouest,92.918,13.119,7.08
+2013-08,Transilien,P,Paris Est,92.1,11.7,7.9
+2015-05,Transilien,J,Paris Saint-Lazare Nord,90.925,10.0,9.07
+2020-07,RER,E,RER E,93.793,15.111,6.2
+2013-08,Transilien,U,La Verrière - La Défense,95.3,20.3,4.7
+2015-05,Transilien,K,Paris Nord Crépy,91.384,10.6,8.61
+2020-07,Transilien,P,Paris Est,90.454,9.475,9.54
+2013-09,RER,B,RER B,86.6,6.5,13.4
+2015-05,Transilien,R,Paris Sud Est,85.632,6.0,14.36
+2020-08,RER,A,RER A,85.83,6.057,14.17
+2013-09,RER,C,RER C,93.1,13.5,6.9
+2015-05,Transilien,U,La Verrière - La Défense,94.944,18.8,5.05
+2020-08,RER,E,RER E,91.532,10.809,8.46
+2013-09,Transilien,N,Paris Montparnasse,92.7,12.7,7.3
+2015-06,Transilien,N,Paris Montparnasse,87.838,7.2,12.16
+2020-08,Transilien,K,Paris Nord Crépy,76.914,3.332,23.08
+2013-09,Transilien,U,La Verrière - La Défense,92.9,13.1,7.1
+2015-07,RER,C,RER C,88.3,7.5,11.7
+2020-08,Transilien,L,Paris Saint-Lazare Sud,95.972,23.829,4.02
+2013-10,RER,E,RER E,95.2,19.8,4.8
+2015-07,RER,E,RER E,93.5,14.4,6.5
+2020-09,Transilien,J,Paris Saint-Lazare Nord,91.481,10.738,8.51
+2013-10,Transilien,P,Paris Est,87.3,6.9,12.7
+2015-07,Transilien,N,Paris Montparnasse,90.6,9.6,9.4
+2020-09,Transilien,N,Paris Montparnasse,93.646,14.737,6.35
+2013-11,RER,A,RER A,80.9,4.2,19.1
+2015-07,Transilien,U,La Verrière - La Défense,92.3,12.0,7.7
+2020-09,Transilien,P,Paris Est,92.999,13.283,7
+2013-11,Transilien,H,Paris Nord Ouest,93.1,13.5,6.9
+2015-08,Transilien,L,Paris Saint-Lazare Sud,89.9,8.9,10.1
+2020-10,RER,B,RER B,82.877,4.84,17.12
+2013-11,Transilien,K,Paris Nord Crépy,77.7,3.5,22.3
+2015-08,Transilien,N,Paris Montparnasse,96.3,26.0,3.7
+2020-10,Transilien,H,Paris Nord Ouest,92.641,12.59,7.35
+2013-11,Transilien,L,Paris Saint-Lazare Sud,77.8,3.5,22.2
+2015-09,RER,D,RER D,87.083,6.7,12.91
+2020-11,RER,D,RER D,89.029,8.115,10.97
+2013-11,Transilien,P,Paris Est,82.8,4.8,17.2
+2015-09,RER,E,RER E,89.903,8.9,10.09
+2020-11,Transilien,J,Paris Saint-Lazare Nord,92.976,13.238,7.02
+2013-12,RER,C,RER C,90.9,10.0,9.1
+2015-09,Transilien,J,Paris Saint-Lazare Nord,85.144,5.7,14.85
+2020-11,Transilien,U,La Verrière - La Défense,95.831,22.986,4.16
+2013-12,Transilien,L,Paris Saint-Lazare Sud,83,4.9,17
+2015-09,Transilien,L,Paris Saint-Lazare Sud,84.187,5.3,15.81
+2020-12,Transilien,H,Paris Nord Ouest,96.386,26.667,3.61
+2014-01,RER,C,RER C,91.4,10.6,8.6
+2015-10,RER,B,RER B,89.983,9.0,10.01
+2020-12,Transilien,K,Paris Nord Crépy,94.445,17.001,5.55
+2014-01,RER,E,RER E,93.6,14.6,6.4
+2015-10,RER,D,RER D,84.198,5.3,15.8
+2020-12,Transilien,N,Paris Montparnasse,95.478,21.112,4.52
+2014-01,Transilien,L,Paris Saint-Lazare Sud,82.3,4.6,17.7
+2015-10,RER,E,RER E,94.987,18.9,5.01
+2020-12,Transilien,P,Paris Est,92.782,12.854,7.21
+2014-01,Transilien,N,Paris Montparnasse,96.1,24.6,3.9
+2015-10,Transilien,N,Paris Montparnasse,87.447,7.0,12.55
+2021-01,RER,C,RER C,90.068,9.068,9.93
+2014-02,RER,A,RER A,85.7,6.0,14.3
+2015-11,Transilien,P,Paris Est,87.9,7.3,12.1
+2021-01,Transilien,J,Paris Saint-Lazare Nord,92.064,11.6,7.93
+2014-02,RER,C,RER C,90.8,9.9,9.2
+2015-12,RER,A,RER A,70.158,2.4,29.84
+2021-02,Transilien,L,Paris Saint-Lazare Sud,89.43,8.46,10.57
+2014-03,RER,D,RER D,87.9,7.3,12.1
+2015-12,RER,C,RER C,90.3,9.3,9.7
+2021-02,Transilien,N,Paris Montparnasse,90.186,9.189,9.81
+2014-03,RER,E,RER E,94.4,16.9,5.6
+2016-01,RER,C,RER C,89.9,8.9,10.1
+2021-03,RER,D,RER D,90.802,9.872,9.19
+2014-04,Transilien,U,La Verrière - La Défense,94.5,17.2,5.5
+2016-01,Transilien,H,Paris Nord Ouest,95.7,22.3,4.3
+2021-03,Transilien,J,Paris Saint-Lazare Nord,93.796,15.12,6.2
+2014-05,RER,E,RER E,93.3,13.9,6.7
+2016-02,RER,E,RER E,93.1,13.5,6.9
+2021-03,Transilien,U,La Verrière - La Défense,95.385,20.667,4.61
+2014-05,Transilien,K,Paris Nord Crépy,91.9,11.3,8.1
+2016-02,Transilien,H,Paris Nord Ouest,95.1,19.4,4.9
+2021-04,RER,A,RER A,94.699,17.866,5.3
+2014-06,RER,D,RER D,85.2,5.8,14.8
+2016-02,Transilien,K,Paris Nord Crépy,85.5,5.9,14.5
+2021-04,RER,C,RER C,93.323,13.977,6.67
+2014-07,RER,A,RER A,70.5,2.4,29.5
+2016-02,Transilien,P,Paris Est,88.1,7.4,11.9
+2021-04,Transilien,U,La Verrière - La Défense,95.583,21.638,4.41
+2014-07,RER,C,RER C,83.9,5.2,16.1
+2016-03,RER,B,RER B,89.5,8.5,10.5
+2021-05,Transilien,L,Paris Saint-Lazare Sud,97.506,39.092,2.49
+2014-07,RER,D,RER D,86.6,6.5,13.4
+2016-03,RER,D,RER D,84.3,5.4,15.7
+2021-06,RER,C,RER C,92.793,12.876,7.2
+2014-07,Transilien,J,Paris Saint-Lazare Nord,85.9,6.1,14.1
+2016-03,Transilien,H,Paris Nord Ouest,92.7,12.7,7.3
+2021-06,RER,D,RER D,89.316,8.36,10.68
+2014-07,Transilien,K,Paris Nord Crépy,87.6,7.1,12.4
+2016-04,RER,C,RER C,90.6,9.6,9.4
+2021-06,Transilien,U,La Verrière - La Défense,95.997,23.983,4
+2014-07,Transilien,N,Paris Montparnasse,94.2,16.2,5.8
+2016-05,RER,B,RER B,86,6.1,14
+2021-07,RER,C,RER C,92.668,12.639,7.33
+2014-08,RER,C,RER C,93.9,15.4,6.1
+2016-05,Transilien,H,Paris Nord Ouest,96.1,24.6,3.9
+2021-07,Transilien,H,Paris Nord Ouest,96.649,28.844,3.35
+2014-08,RER,E,RER E,96,24.0,4
+2016-05,Transilien,J,Paris Saint-Lazare Nord,87.7,7.1,12.3
+2021-07,Transilien,N,Paris Montparnasse,95.475,21.1,4.52
+2014-09,Transilien,K,Paris Nord Crépy,92.1,11.7,7.9
+2016-07,RER,D,RER D,85.8,6.0,14.2
+2021-07,Transilien,P,Paris Est,92.354,12.078,7.64
+2014-10,RER,E,RER E,94,15.7,6
+2016-07,RER,E,RER E,89.9,8.9,10.1
+2021-08,RER,B,RER B,75.721,3.119,24.27
+2014-10,Transilien,J,Paris Saint-Lazare Nord,83.4,5.0,16.6
+2016-07,Transilien,N,Paris Montparnasse,94.7,17.9,5.3
+2021-08,Transilien,H,Paris Nord Ouest,96.92,31.471,3.08
+2014-10,Transilien,L,Paris Saint-Lazare Sud,82.4,4.7,17.6
+2016-08,Transilien,J,Paris Saint-Lazare Nord,86.3,6.3,13.7
+2021-08,Transilien,J,Paris Saint-Lazare Nord,96.661,28.949,3.33
+2014-11,RER,D,RER D,84.779,5.6,15.22
+2016-08,Transilien,K,Paris Nord Crépy,89.4,8.4,10.6
+2021-08,Transilien,P,Paris Est,94.686,17.818,5.31
+2014-11,RER,E,RER E,95.665,22.1,4.33
+2016-09,Transilien,R,Paris Sud Est,87.4,6.9,12.6
+2021-09,RER,C,RER C,93.155,13.609,6.84
+2014-11,Transilien,J,Paris Saint-Lazare Nord,85.776,6.0,14.22
+2016-10,Transilien,H,Paris Nord Ouest,95.6,21.7,4.4
+2021-09,Transilien,H,Paris Nord Ouest,96.309,26.093,3.69
+2014-11,Transilien,K,Paris Nord Crépy,84.573,5.5,15.42
+2016-10,Transilien,R,Paris Sud Est,83.1,4.9,16.9
+2021-09,Transilien,N,Paris Montparnasse,94.706,17.891,5.29
+2014-11,Transilien,L,Paris Saint-Lazare Sud,81.31,4.4,18.69
+2016-11,RER,C,RER C,86.4,6.4,13.6
+2021-10,RER,B,RER B,80.334,4.085,19.66
+2014-11,Transilien,N,Paris Montparnasse,91.45,10.7,8.55
+2016-11,Transilien,P,Paris Est,87.7,7.1,12.3
+2021-10,RER,C,RER C,88.074,7.385,11.92
+2014-12,RER,E,RER E,92.7,12.7,7.3
+2016-12,RER,C,RER C,87.7,7.1,12.3
+2021-10,RER,D,RER D,85.249,5.779,14.75
+2014-12,Transilien,H,Paris Nord Ouest,94.1,15.9,5.9
+2017-01,Transilien,K,Paris Nord Crépy,95.7,22.3,4.3
+2021-10,Transilien,N,Paris Montparnasse,92.358,12.086,7.64
+2015-01,RER,D,RER D,86.563,6.4,13.43
+2017-01,Transilien,R,Paris Sud Est,88.8,7.9,11.2
+2021-11,RER,A,RER A,86.061,6.174,13.93
+2015-01,RER,E,RER E,94.905,18.6,5.09
+2017-01,Transilien,U,La Verrière - La Défense,95.2,19.8,4.8
+2021-11,RER,E,RER E,93.918,15.443,6.08
+2015-01,Transilien,K,Paris Nord Crépy,87.18,6.8,12.82
+2017-02,RER,E,RER E,93,13.3,7
+2021-11,Transilien,H,Paris Nord Ouest,96.376,26.592,3.62
+2015-01,Transilien,L,Paris Saint-Lazare Sud,82.137,4.6,17.86
+2017-02,Transilien,P,Paris Est,91.8,11.2,8.2
+2021-11,Transilien,R,Paris Sud Est,89.031,8.116,10.96
+2015-02,Transilien,K,Paris Nord Crépy,85.087,5.7,14.91
+2017-03,RER,A,RER A,71,2.4,29
+2021-12,RER,D,RER D,87.57,7.045,12.43
+2015-02,Transilien,U,La Verrière - La Défense,91.446,10.7,8.55
+2017-03,RER,C,RER C,89.5,8.5,10.5
+2021-12,Transilien,K,Paris Nord Crépy,96.982,32.139,3.01
+2015-03,RER,A,RER A,71.955,2.6,28.04
+2017-03,RER,E,RER E,94.2,16.2,5.8
+2021-12,Transilien,P,Paris Est,92.876,13.038,7.12
+2015-04,RER,B,RER B,86.173,6.2,13.82
+2017-03,Transilien,H,Paris Nord Ouest,90.4,9.4,9.6
+2015-04,Transilien,H,Paris Nord Ouest,95.079,19.3,4.92
+2017-03,Transilien,J,Paris Saint-Lazare Nord,92.8,12.9,7.2
+2015-04,Transilien,J,Paris Saint-Lazare Nord,90.79,9.9,9.21
+2017-04,RER,E,RER E,93.5,14.4,6.5
+2015-04,Transilien,K,Paris Nord Crépy,86.185,6.2,13.81
+2017-04,Transilien,H,Paris Nord Ouest,89.5,8.5,10.5
+2015-04,Transilien,R,Paris Sud Est,86.115,6.2,13.88
+2017-04,Transilien,J,Paris Saint-Lazare Nord,92.4,12.2,7.6
+2015-04,Transilien,U,La Verrière - La Défense,93.168,13.6,6.83
+2017-04,Transilien,R,Paris Sud Est,83.6,5.1,16.4
+2015-05,RER,D,RER D,86.377,6.3,13.62
+2017-05,RER,E,RER E,91.693,11.0,8.3
+2015-05,Transilien,L,Paris Saint-Lazare Sud,85.842,6.1,14.15
+2017-05,Transilien,H,Paris Nord Ouest,79.812,4.0,20.18
+2015-05,Transilien,P,Paris Est,92.703,12.7,7.29
+2017-05,Transilien,J,Paris Saint-Lazare Nord,90.617,9.7,9.38
+2015-06,Transilien,J,Paris Saint-Lazare Nord,88.972,8.1,11.02
+2017-05,Transilien,N,Paris Montparnasse,89.215,8.3,10.78
+2015-06,Transilien,P,Paris Est,88.835,8.0,11.16
+2017-05,Transilien,U,La Verrière - La Défense,89.266,8.3,10.73
+2015-07,RER,A,RER A,73.1,2.7,26.9
+2017-06,Transilien,H,Paris Nord Ouest,86.436,6.4,13.56
+2015-07,Transilien,R,Paris Sud Est,88.8,7.9,11.2
+2017-06,Transilien,N,Paris Montparnasse,90.031,9.0,9.96
+2015-09,RER,C,RER C,90.693,9.7,9.3
+2017-07,RER,C,RER C,89.405,8.4,10.59
+2015-10,Transilien,J,Paris Saint-Lazare Nord,87.99,7.3,12.01
+2017-07,Transilien,J,Paris Saint-Lazare Nord,91.211,10.4,8.78
+2015-10,Transilien,R,Paris Sud Est,85.045,5.7,14.95
+2017-08,RER,B,RER B,93.2,13.7,6.8
+2015-11,RER,B,RER B,86.6,6.5,13.4
+2017-08,RER,D,RER D,91,10.1,9
+2015-11,RER,C,RER C,85.8,6.0,14.2
+2017-08,Transilien,P,Paris Est,92.2,11.8,7.8
+2015-12,Transilien,H,Paris Nord Ouest,96.2,25.3,3.8
+2017-09,RER,D,RER D,85.3,5.8,14.7
+2015-12,Transilien,K,Paris Nord Crépy,85.9,6.1,14.1
+2017-10,RER,A,RER A,69.9,2.3,30.1
+2016-01,RER,A,RER A,69.1,2.2,30.9
+2017-11,Transilien,K,Paris Nord Crépy,90.3,9.3,9.7
+2016-01,RER,B,RER B,85.5,5.9,14.5
+2017-12,Transilien,L,Paris Saint-Lazare Sud,86.3,6.3,13.7
+2016-01,RER,D,RER D,81.4,4.4,18.6
+2017-12,Transilien,N,Paris Montparnasse,86,6.1,14
+2016-01,Transilien,K,Paris Nord Crépy,81.5,4.4,18.5
+2017-12,Transilien,U,La Verrière - La Défense,91.4,10.6,8.6
+2016-01,Transilien,N,Paris Montparnasse,92.1,11.7,7.9
+2018-01,Transilien,N,Paris Montparnasse,90.5,9.5,9.5
+2016-02,RER,B,RER B,86.9,6.6,13.1
+2018-02,RER,E,RER E,81.5,4.4,18.5
+2016-02,Transilien,L,Paris Saint-Lazare Sud,89.4,8.4,10.6
+2018-02,Transilien,U,La Verrière - La Défense,86.3,6.3,13.7
+2016-02,Transilien,U,La Verrière - La Défense,96.8,30.3,3.2
+2018-03,RER,E,RER E,93,13.3,7
+2016-03,RER,E,RER E,95.7,22.3,4.3
+2018-04,RER,A,RER A,80.8,4.2,19.2
+2016-03,Transilien,K,Paris Nord Crépy,85.8,6.0,14.2
+2018-04,RER,C,RER C,94.5,17.2,5.5
+2016-03,Transilien,R,Paris Sud Est,90.8,9.9,9.2
+2018-04,RER,E,RER E,94.4,16.9,5.6
+2016-04,Transilien,K,Paris Nord Crépy,89.8,8.8,10.2
+2018-04,Transilien,H,Paris Nord Ouest,95.4,20.7,4.6
+2016-04,Transilien,R,Paris Sud Est,90.1,9.1,9.9
+2018-05,RER,C,RER C,94.1,15.9,5.9
+2016-05,Transilien,L,Paris Saint-Lazare Sud,87.3,6.9,12.7
+2018-06,Transilien,U,La Verrière - La Défense,92.4,12.2,7.6
+2016-05,Transilien,N,Paris Montparnasse,89.9,8.9,10.1
+2018-07,Transilien,H,Paris Nord Ouest,93.5,14.4,6.5
+2016-05,Transilien,P,Paris Est,88,7.3,12
+2018-07,Transilien,L,Paris Saint-Lazare Sud,89.3,8.3,10.7
+2016-06,RER,B,RER B,88.1,7.4,11.9
+2018-07,Transilien,U,La Verrière - La Défense,85.3,5.8,14.7
+2016-06,Transilien,H,Paris Nord Ouest,93.8,15.1,6.2
+2018-08,Transilien,H,Paris Nord Ouest,96.7,29.3,3.3
+2016-06,Transilien,N,Paris Montparnasse,80.3,4.1,19.7
+2018-08,Transilien,N,Paris Montparnasse,82.1,4.6,17.9
+2016-07,RER,A,RER A,73,2.7,27
+2018-08,Transilien,R,Paris Sud Est,84.1,5.3,15.9
+2016-07,Transilien,L,Paris Saint-Lazare Sud,87.6,7.1,12.4
+2018-09,Transilien,K,Paris Nord Crépy,96,24.0,4
+2016-07,Transilien,U,La Verrière - La Défense,96.5,27.6,3.5
+2018-09,Transilien,R,Paris Sud Est,87.7,7.1,12.3
+2016-08,Transilien,N,Paris Montparnasse,92,11.5,8
+2018-10,Transilien,J,Paris Saint-Lazare Nord,88.3,7.5,11.7
+2016-08,Transilien,R,Paris Sud Est,89.4,8.4,10.6
+2018-10,Transilien,U,La Verrière - La Défense,95,19.0,5
+2016-09,RER,A,RER A,70.9,2.4,29.1
+2018-11,Transilien,L,Paris Saint-Lazare Sud,88.2,7.5,11.8
+2016-09,RER,C,RER C,88.6,7.8,11.4
+2018-11,Transilien,N,Paris Montparnasse,87.6,7.1,12.4
+2016-09,Transilien,K,Paris Nord Crépy,96.3,26.0,3.7
+2018-12,RER,A,RER A,84.2,5.3,15.8
+2016-10,RER,B,RER B,83.7,5.1,16.3
+2018-12,Transilien,R,Paris Sud Est,85.3,5.8,14.7
+2016-10,RER,D,RER D,84.9,5.6,15.1
+2019-01,RER,E,RER E,92,11.5,8
+2016-10,Transilien,J,Paris Saint-Lazare Nord,90.7,9.8,9.3
+2019-01,Transilien,N,Paris Montparnasse,87.1,6.8,12.9
+2016-11,RER,A,RER A,65.9,1.9,34.1
+2019-02,Transilien,J,Paris Saint-Lazare Nord,91.762,11.1,8.23
+2016-11,RER,E,RER E,93,13.3,7
+2019-02,Transilien,P,Paris Est,86.513,6.4,13.48
+2016-11,Transilien,J,Paris Saint-Lazare Nord,86.4,6.4,13.6
+2019-02,Transilien,R,Paris Sud Est,84.265,5.4,15.73
+2016-11,Transilien,K,Paris Nord Crépy,96.1,24.6,3.9
+2019-03,Transilien,H,Paris Nord Ouest,96.317,26.2,3.68
+2016-12,RER,A,RER A,66.7,2.0,33.3
+2019-03,Transilien,J,Paris Saint-Lazare Nord,91.707,11.1,8.29
+2016-12,RER,E,RER E,94,15.7,6
+2019-03,Transilien,L,Paris Saint-Lazare Sud,93.823,15.2,6.17
+2017-02,Transilien,K,Paris Nord Crépy,94.6,17.5,5.4
+2019-04,RER,B,RER B,87.7,7.1,12.3
+2017-02,Transilien,U,La Verrière - La Défense,95.5,21.2,4.5
+2019-04,Transilien,R,Paris Sud Est,88.984,8.1,11.01
+2017-03,Transilien,L,Paris Saint-Lazare Sud,90.1,9.1,9.9
+2019-04,Transilien,U,La Verrière - La Défense,97.068,33.1,2.93
+2017-04,RER,D,RER D,86.3,6.3,13.7
+2019-05,RER,B,RER B,89.254,8.3,10.74
+2017-04,Transilien,K,Paris Nord Crépy,93.4,14.2,6.6
+2019-05,RER,C,RER C,90.955,10.1,9.04
+2017-05,RER,A,RER A,70.889,2.4,29.11
+2019-05,Transilien,H,Paris Nord Ouest,92.613,12.5,7.38
+2017-05,RER,D,RER D,87.028,6.7,12.97
+2019-05,Transilien,K,Paris Nord Crépy,92.738,12.8,7.26
+2017-05,Transilien,K,Paris Nord Crépy,87.682,7.1,12.31
+2019-06,Transilien,H,Paris Nord Ouest,92.945,13.2,7.05
+2017-05,Transilien,R,Paris Sud Est,84.346,5.4,15.65
+2019-06,Transilien,N,Paris Montparnasse,92.417,12.2,7.58
+2017-06,RER,C,RER C,85.009,5.7,14.99
+2019-06,Transilien,U,La Verrière - La Défense,94.129,16.0,5.87
+2017-06,Transilien,J,Paris Saint-Lazare Nord,89.879,8.9,10.12
+2019-07,RER,B,RER B,84.912,5.6,15.08
+2017-06,Transilien,U,La Verrière - La Défense,91.709,11.1,8.29
+2019-07,RER,C,RER C,87.219,6.8,12.78
+2017-07,RER,E,RER E,88.33,7.6,11.67
+2019-07,Transilien,J,Paris Saint-Lazare Nord,90.894,10.0,9.1
+2017-07,Transilien,P,Paris Est,87.231,6.8,12.76
+2019-07,Transilien,L,Paris Saint-Lazare Sud,93.741,15.0,6.25
+2017-07,Transilien,U,La Verrière - La Défense,92.59,12.5,7.41
+2019-07,Transilien,N,Paris Montparnasse,92.452,12.2,7.54
+2017-08,RER,A,RER A,88.09,7.4,11.91
+2019-10,RER,E,RER E,91.415,10.6,8.58
+2017-08,RER,E,RER E,94.5,17.2,5.5
+2019-10,Transilien,H,Paris Nord Ouest,90.329,9.3,9.67
+2017-08,Transilien,H,Paris Nord Ouest,97.6,40.7,2.4
+2019-10,Transilien,K,Paris Nord Crépy,86.629,6.5,13.37
+2017-08,Transilien,N,Paris Montparnasse,92,11.5,8
+2019-11,Transilien,K,Paris Nord Crépy,93.756,15.0,6.24
+2017-08,Transilien,U,La Verrière - La Défense,96.1,24.6,3.9
+2019-11,Transilien,N,Paris Montparnasse,91.196,10.4,8.8
+2017-09,RER,C,RER C,92.3,12.0,7.7
+2019-11,Transilien,P,Paris Est,87.341,6.9,12.65
+2017-09,Transilien,L,Paris Saint-Lazare Sud,88.1,7.4,11.9
+2020-02,Transilien,K,Paris Nord Crépy,93.155,13.609,6.84
+2017-10,RER,C,RER C,89.4,8.4,10.6
+2020-02,Transilien,N,Paris Montparnasse,92.126,11.699,7.87
+2017-10,RER,E,RER E,91.8,11.2,8.2
+2020-02,Transilien,R,Paris Sud Est,80.723,4.188,19.27
+2017-10,Transilien,U,La Verrière - La Défense,92.1,11.7,7.9
+2020-02,Transilien,U,La Verrière - La Défense,95.379,20.64,4.62
+2017-11,RER,A,RER A,71.02,2.5,28.98
+2020-03,Transilien,J,Paris Saint-Lazare Nord,90.737,9.795,9.26
+2017-11,RER,C,RER C,85.8,6.0,14.2
+2020-03,Transilien,L,Paris Saint-Lazare Sud,94.21,16.271,5.79
+2017-12,RER,C,RER C,88.7,7.8,11.3
+2020-03,Transilien,N,Paris Montparnasse,95.275,20.163,4.72
+2017-12,Transilien,J,Paris Saint-Lazare Nord,85.8,6.0,14.2
+2020-06,Transilien,K,Paris Nord Crépy,92.545,12.414,7.45
+2017-12,Transilien,P,Paris Est,91.5,10.8,8.5
+2020-06,Transilien,L,Paris Saint-Lazare Sud,93.307,13.94,6.69
+2018-01,Transilien,J,Paris Saint-Lazare Nord,92.2,11.8,7.8
+2020-06,Transilien,N,Paris Montparnasse,90.864,9.946,9.13
+2018-01,Transilien,L,Paris Saint-Lazare Sud,89.8,8.8,10.2
+2020-07,RER,A,RER A,89.038,8.122,10.96
+2018-02,RER,C,RER C,82.9,4.8,17.1
+2020-07,Transilien,L,Paris Saint-Lazare Sud,96.892,31.171,3.1
+2018-02,Transilien,J,Paris Saint-Lazare Nord,84.1,5.3,15.9
+2020-07,Transilien,R,Paris Sud Est,90.137,9.139,9.86
+2018-02,Transilien,K,Paris Nord Crépy,88.7,7.8,11.3
+2020-07,Transilien,U,La Verrière - La Défense,96.83,30.542,3.17
+2018-02,Transilien,N,Paris Montparnasse,82.7,4.8,17.3
+2020-08,Transilien,H,Paris Nord Ouest,90.715,9.77,9.28
+2018-03,RER,A,RER A,81.3,4.3,18.7
+2020-09,RER,A,RER A,87.412,6.944,12.58
+2018-03,Transilien,H,Paris Nord Ouest,93.7,14.9,6.3
+2020-09,Transilien,R,Paris Sud Est,90.616,9.656,9.38
+2018-03,Transilien,P,Paris Est,91.5,10.8,8.5
+2020-10,RER,A,RER A,82.491,4.711,17.5
+2018-03,Transilien,R,Paris Sud Est,86,6.1,14
+2020-10,Transilien,K,Paris Nord Crépy,87.645,7.094,12.35
+2018-04,RER,D,RER D,90.5,9.5,9.5
+2020-10,Transilien,L,Paris Saint-Lazare Sud,91.109,10.248,8.89
+2018-04,Transilien,L,Paris Saint-Lazare Sud,96.1,24.6,3.9
+2020-10,Transilien,N,Paris Montparnasse,93.261,13.84,6.73
+2018-05,Transilien,H,Paris Nord Ouest,90.8,9.9,9.2
+2020-10,Transilien,R,Paris Sud Est,87.883,7.253,12.11
+2018-05,Transilien,N,Paris Montparnasse,92.1,11.7,7.9
+2020-11,RER,A,RER A,90.137,9.138,9.86
+2018-05,Transilien,P,Paris Est,87.2,6.8,12.8
+2020-11,RER,B,RER B,87.683,7.119,12.31
+2018-05,Transilien,U,La Verrière - La Défense,94.4,16.9,5.6
+2020-11,RER,E,RER E,95.313,20.333,4.68
+2018-06,Transilien,K,Paris Nord Crépy,94.4,16.9,5.6
+2020-11,Transilien,K,Paris Nord Crépy,94.156,16.11,5.84
+2018-07,Transilien,R,Paris Sud Est,81.7,4.5,18.3
+2020-12,RER,D,RER D,87.554,7.035,12.44
+2018-08,RER,B,RER B,89,8.1,11
+2020-12,Transilien,U,La Verrière - La Défense,96.436,27.056,3.56
+2018-09,RER,C,RER C,90,9.0,10
+2021-01,RER,B,RER B,85.704,5.995,14.29
+2018-09,RER,D,RER D,84.5,5.5,15.5
+2021-01,RER,E,RER E,94.692,17.841,5.3
+2018-10,Transilien,K,Paris Nord Crépy,88.2,7.5,11.8
+2021-01,Transilien,H,Paris Nord Ouest,94.673,17.774,5.32
+2018-10,Transilien,L,Paris Saint-Lazare Sud,91.6,10.9,8.4
+2021-01,Transilien,P,Paris Est,91.682,11.023,8.31
+2018-10,Transilien,P,Paris Est,86.4,6.4,13.6
+2021-01,Transilien,R,Paris Sud Est,89.271,8.32,10.72
+2018-10,Transilien,R,Paris Sud Est,90,9.0,10
+2021-01,Transilien,U,La Verrière - La Défense,96.954,31.833,3.04
+2018-12,RER,C,RER C,87.3,6.9,12.7
+2021-02,Transilien,P,Paris Est,89.8,8.804,10.2
+2018-12,RER,D,RER D,87,6.7,13
+2021-02,Transilien,R,Paris Sud Est,85.204,5.759,14.79
+2018-12,Transilien,H,Paris Nord Ouest,93.2,13.7,6.8
+2021-03,RER,C,RER C,93.572,14.558,6.42
+2018-12,Transilien,J,Paris Saint-Lazare Nord,88.5,7.7,11.5
+2021-03,Transilien,H,Paris Nord Ouest,95.975,23.847,4.02
+2019-01,RER,A,RER A,85,5.7,15
+2021-04,RER,D,RER D,91.856,11.28,8.14
+2019-01,Transilien,P,Paris Est,85.2,5.8,14.8
+2021-04,Transilien,N,Paris Montparnasse,93.668,14.793,6.33
+2019-02,Transilien,U,La Verrière - La Défense,96.535,27.9,3.46
+2021-04,Transilien,P,Paris Est,94.975,18.901,5.02
+2019-03,RER,C,RER C,91.655,11.0,8.34
+2021-05,RER,E,RER E,95.751,22.536,4.24
+2019-03,RER,E,RER E,95.286,20.2,4.71
+2021-05,Transilien,H,Paris Nord Ouest,96.324,26.206,3.67
+2019-04,RER,A,RER A,89.4,8.4,10.6
+2021-05,Transilien,P,Paris Est,95.122,19.5,4.87
+2019-04,Transilien,P,Paris Est,90.178,9.2,9.82
+2021-06,RER,A,RER A,90.045,9.045,9.95
+2019-05,RER,D,RER D,87.432,7.0,12.56
+2021-06,RER,B,RER B,82.345,4.664,17.65
+2019-05,Transilien,J,Paris Saint-Lazare Nord,91.964,11.4,8.03
+2021-06,Transilien,J,Paris Saint-Lazare Nord,90.195,9.199,9.8
+2019-05,Transilien,L,Paris Saint-Lazare Sud,91.796,11.2,8.2
+2021-06,Transilien,K,Paris Nord Crépy,92.56,12.441,7.44
+2019-05,Transilien,U,La Verrière - La Défense,93.95,15.5,6.05
+2021-07,RER,A,RER A,88.621,7.788,11.37
+2019-06,RER,B,RER B,84.57,5.5,15.43
+2021-07,Transilien,L,Paris Saint-Lazare Sud,96.63,28.672,3.37
+2019-06,Transilien,P,Paris Est,86.779,6.6,13.22
+2021-07,Transilien,U,La Verrière - La Défense,97.489,38.828,2.51
+2019-06,Transilien,R,Paris Sud Est,83.92,5.2,16.08
+2021-08,RER,A,RER A,91.153,10.303,8.84
+2019-07,Transilien,U,La Verrière - La Défense,95.068,19.3,4.93
+2021-08,RER,C,RER C,95.165,19.683,4.83
+2019-08,RER,C,RER C,93.393,14.1,6.6
+2021-08,Transilien,N,Paris Montparnasse,96.911,31.373,3.08
+2019-08,RER,E,RER E,85.001,5.7,14.99
+2021-09,Transilien,J,Paris Saint-Lazare Nord,93.138,13.574,6.86
+2019-08,Transilien,R,Paris Sud Est,86.617,6.5,13.38
+2021-10,RER,A,RER A,86.592,6.458,13.4
+2019-09,RER,C,RER C,89.033,8.1,10.96
+2021-10,Transilien,P,Paris Est,89.298,8.344,10.7
+2019-10,RER,C,RER C,82.873,4.8,17.12
+2021-10,Transilien,R,Paris Sud Est,80.11,4.028,19.89
+2019-10,Transilien,R,Paris Sud Est,81.091,4.3,18.9
+2021-11,Transilien,J,Paris Saint-Lazare Nord,91.691,11.035,8.3
+2019-11,RER,D,RER D,83.007,4.9,16.99
+2021-11,Transilien,K,Paris Nord Crépy,93.467,14.308,6.53
+2019-11,RER,E,RER E,91.331,10.5,8.66
+2021-11,Transilien,L,Paris Saint-Lazare Sud,92.772,12.834,7.22
+2019-11,Transilien,U,La Verrière - La Défense,96.521,27.7,3.47
+2021-12,RER,A,RER A,88.986,8.079,11.01
+2020-02,RER,D,RER D,84.304,5.371,15.69
+2021-12,RER,C,RER C,90.559,9.592,9.44
+2020-02,RER,E,RER E,88.05,7.368,11.95
+2020-02,Transilien,H,Paris Nord Ouest,90.557,9.59,9.44
+2020-02,Transilien,P,Paris Est,89.116,8.187,10.88
+2020-03,RER,E,RER E,90.362,9.375,9.63
+2020-03,Transilien,H,Paris Nord Ouest,95.134,19.552,4.86
+2020-06,RER,B,RER B,86.187,6.24,13.81
+2020-06,Transilien,J,Paris Saint-Lazare Nord,91.012,10.126,8.98
+2020-06,Transilien,R,Paris Sud Est,88.994,8.086,11
+2020-07,RER,B,RER B,89.142,8.21,10.85
+2020-07,Transilien,J,Paris Saint-Lazare Nord,92.495,12.324,7.5
+2020-08,Transilien,J,Paris Saint-Lazare Nord,93.514,14.417,6.48
+2020-08,Transilien,P,Paris Est,90.729,9.786,9.27
+2020-08,Transilien,U,La Verrière - La Défense,96.763,29.897,3.23
+2020-09,RER,E,RER E,92.264,11.927,7.73
+2020-09,Transilien,K,Paris Nord Crépy,93.599,14.622,6.4
+2020-10,RER,E,RER E,92.796,12.882,7.2
+2020-10,Transilien,U,La Verrière - La Défense,95.879,23.268,4.12
+2020-11,Transilien,L,Paris Saint-Lazare Sud,96.193,25.268,3.8
+2020-11,Transilien,R,Paris Sud Est,90.476,9.5,9.52
+2020-12,RER,E,RER E,93.577,14.569,6.42
+2021-01,RER,A,RER A,83.676,5.126,16.32
+2021-01,Transilien,L,Paris Saint-Lazare Sud,95.988,23.923,4.01
+2021-02,RER,C,RER C,86.4,6.353,13.6
+2021-02,Transilien,J,Paris Saint-Lazare Nord,87.613,7.073,12.38
+2021-02,Transilien,K,Paris Nord Crépy,90.965,10.068,9.03
+2021-03,RER,B,RER B,88.663,7.821,11.33
+2021-03,Transilien,K,Paris Nord Crépy,94.88,18.531,5.12
+2021-03,Transilien,N,Paris Montparnasse,92.696,12.691,7.3
+2021-04,RER,E,RER E,95.648,21.978,4.35
+2021-04,Transilien,J,Paris Saint-Lazare Nord,95.641,21.943,4.35
+2021-04,Transilien,K,Paris Nord Crépy,93.628,14.695,6.37
+2021-04,Transilien,L,Paris Saint-Lazare Sud,97.407,37.565,2.59
+2021-05,RER,B,RER B,89.953,8.953,10.04
+2021-05,Transilien,J,Paris Saint-Lazare Nord,96.101,24.65,3.89
+2021-05,Transilien,K,Paris Nord Crépy,95.799,22.803,4.2
+2021-05,Transilien,N,Paris Montparnasse,93.919,15.444,6.08
+2021-05,Transilien,R,Paris Sud Est,88.801,7.929,11.19
+2021-05,Transilien,U,La Verrière - La Défense,97.197,34.677,2.8
+2021-06,Transilien,P,Paris Est,88.148,7.438,11.85
+2021-07,RER,B,RER B,85.101,5.712,14.89
+2021-07,RER,D,RER D,88.484,7.684,11.51
+2021-07,Transilien,J,Paris Saint-Lazare Nord,93.669,14.796,6.33
+2021-08,RER,D,RER D,88.909,8.017,11.09
+2021-08,RER,E,RER E,95.883,23.292,4.11
+2021-08,Transilien,K,Paris Nord Crépy,95.36,20.554,4.64
+2021-09,RER,E,RER E,93.969,15.581,6.03
+2021-10,RER,E,RER E,94.505,17.199,5.49
+2021-10,Transilien,H,Paris Nord Ouest,91.82,11.225,8.18
+2021-10,Transilien,K,Paris Nord Crépy,83.724,5.144,16.27
+2021-10,Transilien,L,Paris Saint-Lazare Sud,91.722,11.08,8.27
+2021-11,Transilien,N,Paris Montparnasse,91.513,10.783,8.48
+2021-11,Transilien,P,Paris Est,87.623,7.08,12.37
+2021-12,RER,E,RER E,95.654,22.01,4.34
+2021-12,Transilien,L,Paris Saint-Lazare Sud,95.018,19.073,4.98
+2021-12,Transilien,R,Paris Sud Est,89.154,8.22,10.84
+2021-12,Transilien,U,La Verrière - La Défense,97.179,34.447,2.82
